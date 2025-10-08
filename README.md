@@ -3,6 +3,10 @@
 [IMPORTANT INFO FOR NEW PLAYERS]
 Steam version of the game is probobly required. I have no tested with GOG versions of skyrim.
 
+ANNIVERSARY EDITION CONTENT IS REQUIRED. (If you dont want the Anniversary edition content. disable the mod anniversary edition content picker. 
+then Mod organizer will show a warning saying you have mods that depend on them. you will have to go through 1 by 1 and disable them until the warning goes away. 
+the warning shows exactly what mods require the anniversary edition content)
+
 The list automatically sets itself up. after you finished the wabbajack installation nothing else is required.
 
 I reccomend changing the POWER ATTACK key from default "c" to whatever you wish.
