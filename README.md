@@ -2,7 +2,7 @@
 
 
 [IMPORTANT INFO FOR NEW PLAYERS]
-Steam version required. The GOG version has not been tested and may not be compatible.
+Steam version is prefferable The GOG version has not been tested and may not be work im not sure. 
 Widescreen not currently supported. Controller and gamepad support work fine.
 Anniversary Edition content is required.
 If you prefer not to use AE content, disable the Anniversary Edition Content Picker mod.
