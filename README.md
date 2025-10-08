@@ -1,5 +1,15 @@
 # True-North
 
+[IMPORTANT INFO FOR NEW PLAYERS]
+Steam version of the game is probobly required. I have no tested with GOG versions of skyrim.
+
+The list automatically sets itself up. after you finished the wabbajack installation nothing else is required.
+
+I reccomend changing the POWER ATTACK key from default "c" to whatever you wish.
+
+When starting a new character, you will be brought into skyrim at a random date in time. it could be winter or it could be summer. if you want to change this mechanic, open the MCM men and find Select Your Season. this mod gives you a option to change the starting date to whatever you wish for a limited time when a new character has started.
+
+I also Reccomend you pick a voice for your main character by going to DBVO in the MCM settings. There is a option for male and female characters. 
 
 True North
 
@@ -63,13 +73,3 @@ Requires steam version of the game probably I haven't tried with other game vers
 I made this modlist for myself, to play the modded version of Skyrim I’ve always dreamed of  — and now its available for everyone else.  
 
 Im from northern Canada 🇨🇦 and skyrim reminds me of home. The northern lights I spent alot of time ensuring they look like like how they appear when I view them in front of my house.
-
-
-[IMPORTANT INFO FOR NEW PLAYERS]
-
-The list automatically sets itself up. after you finished the wabbajack installation nothing else is required.
-
-I reccomend changing the POWER ATTACK key from default "c" to whatever you wish. 
-
-When starting a new character, you will be brought into skyrim at a random date in time. it could be winter or it could be summer. if you want to change this mechanic, open the MCM men
-and find Select Your Season. this mod gives you a option to change the starting date to whatever you wish for a limited time when a new character has started. 
