@@ -2,11 +2,16 @@
 
 [IMPORTANT INFO FOR NEW PLAYERS]
 
+
+
 Steam version of the game is probobly required. I have no tested with GOG versions of skyrim.
 
 ANNIVERSARY EDITION CONTENT IS REQUIRED. (If you dont want the Anniversary edition content. disable the mod anniversary edition content picker. 
 then Mod organizer will show a warning saying you have mods that depend on them. you will have to go through 1 by 1 and disable them until the warning goes away. 
 the warning shows exactly what mods require the anniversary edition content)
+
+DELETING THE DOWNLOADS OF THE WABBAJACK LIST CAN SAVE YOU OVER 50 GIGS OF SPACE ON YOUR PC. 
+ONCE THE WABBAJACK HAS FINISHED ITS INSTALLATION I RECCOMEND DELETING THE DOWNLOADS FOLDER TO FREE UP SPCAE
 
 The list automatically sets itself up. after you finished the wabbajack installation nothing else is required.
 
@@ -14,7 +19,7 @@ I reccomend changing the POWER ATTACK key from default "c" to whatever you wish 
 
 When starting a new character, you will be brought into skyrim at a random date in time. it could be winter or it could be summer. if you want to change this mechanic, open the MCM men and find Select Your Season. this mod gives you a option to change the starting date to whatever you wish for a limited time when a new character has started.
 
-I also Reccomend you pick a voice for your main character by going to DBVO in the MCM settings. There is a option for male and female characters. 
+I also Reccomend you pick a voice for your main character by going to DBVO in the MCM settings. There is a option for male and female characters.
 
 True North
 
