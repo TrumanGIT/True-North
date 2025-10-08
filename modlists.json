@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "True North",
+    "description": "True North is my vision of Skyrim — a Wabbajack modlist of over 1000 mods that unites the best of 14 years of community work into one cohesive, optimized experience. It stays true to Skyrim’s spirit while expanding every facet: fully voiced player dialogue, overhauled quests, integrated survival mechanics, new seasons to experience and dynamic world events that reshape the land over time. NPCs live real lives, relationships evolve, and the world reacts to your actions. Combat has been completely rebuilt with BFCO, Precision, and smarter AI for responsive, tactical battles. Despite its scale, True North maintains smooth 60 FPS on modern hardware.",
+    "author": "JohnDoe",
+    "maintainers": [
+      "github/JohnDoe"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
+      "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/160623",
+      "download": "https://authored-files.wabbajack.org/True%20North.wabbajack_2a6049fb-e2d9-4af2-b5f3-2a46a7c6e453",
+      "machineURL": "TrueNorth",
+      "discordURL": "https://discord.gg/wabbajack"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "u+FNS8727Fs=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "1.0.0"
+  }
+]
