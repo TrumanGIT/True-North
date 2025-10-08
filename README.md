@@ -1,6 +1,7 @@
 # True-North
 
 [IMPORTANT INFO FOR NEW PLAYERS]
+
 Steam version of the game is probobly required. I have no tested with GOG versions of skyrim.
 
 ANNIVERSARY EDITION CONTENT IS REQUIRED. (If you dont want the Anniversary edition content. disable the mod anniversary edition content picker. 
