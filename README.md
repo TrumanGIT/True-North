@@ -10,7 +10,7 @@ the warning shows exactly what mods require the anniversary edition content)
 
 The list automatically sets itself up. after you finished the wabbajack installation nothing else is required.
 
-I reccomend changing the POWER ATTACK key from default "c" to whatever you wish.
+I reccomend changing the POWER ATTACK key from default "c" to whatever you wish by Opening BFCO in the MCM menu. 
 
 When starting a new character, you will be brought into skyrim at a random date in time. it could be winter or it could be summer. if you want to change this mechanic, open the MCM men and find Select Your Season. this mod gives you a option to change the starting date to whatever you wish for a limited time when a new character has started.
 
