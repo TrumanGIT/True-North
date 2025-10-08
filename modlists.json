@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "True North",
-    "description": " CURRENTLY NOT WORKING (Fix will be up soon) True North is a SWF Wabbajack modlist of over 1000 mods that bundlkes the skyrim modding community’s incredible work over the last 14+ years into one cohesive, optimized experience. It stays true to Skyrim’s spirit while expanding every facet: fully voiced player dialogue, overhauled quests, integrated survival mechanics, new seasons to experience and dynamic world events that reshape the land over time. Combat has been completely rebuilt with BFCO, Precision, and smarter AI for responsive, tactical battles. Despite its scale, True North maintains smooth 60 FPS even on a 8gb gpu.",
+    "description": "True North is a SWF Wabbajack modlist of over 1000 mods that bundles 14+ years of incredible work done by the skyrim modding community into one cohesive, optimized experience. It stays true to Skyrim’s spirit while improving everything: fully voiced player dialogue, overhauled quests, integrated survival mechanics (Shut off survival mode improved if its not your thing), new seasons, weather types to experience and a dynamic world that responds to your actions. Combat has been completely rebuilt with BFCO, Precision, smarter AI. Dismembering Framework, Core Impact Framework (and more). Despite its scale, True North maintains smooth 60 FPS even on a 8gb GPU.",
     "author": "Truman",
     "maintainers": [
       "github/Easychips"
@@ -10,7 +10,6 @@
     "game": "skyrimspecialedition",
     "tags": [
       "SFW",
-      "Steam",
       "Anniversary Edition",
       "Creation Club",
       "BFCO",
@@ -24,7 +23,7 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Easychips/True-North/main/True-North.png",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/160623",
-      "download": "https://authored-files.wabbajack.org/True%20North.wabbajack_2a6049fb-e2d9-4af2-b5f3-2a46a7c6e453",
+      "download": "https://authored-files.wabbajack.org/TrueNorth.wabbajack_abfec721-2f32-4133-8a39-bb353cf5f06d",
       "machineURL": "TrueNorth",
       "discordURL": "https://discord.gg/wabbajack"
     },
