@@ -10,7 +10,7 @@ Mod Organizer will then display a warning listing which mods depend on AE conten
 After Wabbajack finishes installing, delete all files in the Downloads folder to free up space (over 50GB).
 The list automatically configures itself — no manual setup is needed after installation.
 Recommended tweaks:
-Rebind the Power Attack key (default: C) via the BFCO MCM menu.
+Rebind the Power Attack key (default: V) via the BFCO MCM menu.
 On starting a new game, the world begins at a random point in the seasonal cycle (it might be winter or summer).
 To change this, open the Select Your Season MCM menu — available for a limited time after character creation.
 Choose your character’s voice in the DBVO MCM menu (options available for both male and female voices).
