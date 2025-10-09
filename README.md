@@ -2,7 +2,12 @@
 
 
 [IMPORTANT INFO FOR NEW PLAYERS]
-NO STOCK GAME FOLDER! What does that mean?  it means you must have a copy of skyrim already on your computer.
+NO STOCK GAME FOLDER!
+What does that mean?
+
+It means you need to have a clean install of skyrim already on your computer. 
+
+A clean install means the game files haven’t been modified — for example, no SKSE, Engine Fixes, or ENB files added. However, ESPs cleaned with SSEEdit are perfectly fine.
 thanks to root buidler I left out a stockgame folder to save space  and to provide support for users who bought skyrim of gog or other locations. 
 MO2 should automatically detect your copy of skyrim but if it does not you might have to point it to your skyrim.exe manually.
 Steam version is prefferable The GOG version has not been tested and may not be work im not sure. 
