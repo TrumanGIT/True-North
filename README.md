@@ -2,6 +2,9 @@
 
 
 [IMPORTANT INFO FOR NEW PLAYERS]
+NO STOCK GAME FOLDER! What does that mean?  it means you must have a copy of skyrim already on your computer
+I left out a stockgame folder to save space thanks to root buidler. 
+MO2 should automatically detect your copy of skyrim but if it does not you might have to point it to your skyrim.exe manually.
 Steam version is prefferable The GOG version has not been tested and may not be work im not sure. 
 Widescreens not currently supported. Controller and gamepad support work fine.
 Anniversary Edition content is required.
