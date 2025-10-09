@@ -6,6 +6,7 @@ Steam version is prefferable The GOG version has not been tested and may not be 
 Widescreens not currently supported. Controller and gamepad support work fine.
 Anniversary Edition content is required.
 After Wabbajack finishes installing, delete all files in the Downloads folder to free up space (over 50GB).
+
 The list automatically configures itself — no manual setup is needed after installation.
 Recommended tweaks:
 Rebind the Power Attack key (default: V) via the BFCO MCM menu.
