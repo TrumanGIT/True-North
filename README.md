@@ -5,8 +5,6 @@
 Steam version is prefferable The GOG version has not been tested and may not be work im not sure. 
 Widescreen not currently supported. Controller and gamepad support work fine.
 Anniversary Edition content is required.
-If you prefer not to use AE content, disable the Anniversary Edition Content Picker mod.
-Mod Organizer will then display a warning listing which mods depend on AE content — disable those one by one until the warning disappears.
 After Wabbajack finishes installing, delete all files in the Downloads folder to free up space (over 50GB).
 The list automatically configures itself — no manual setup is needed after installation.
 Recommended tweaks:
@@ -23,7 +21,7 @@ True North is my vision of Skyrim —a wabbajack list of 1000+ mods. A celebrati
 
 Modding Skyrim in 2025 is no easy task. To get the best possible experience, you need to master countless tools — xEdit, DynDOLOD, xLODGen, Grass Cache, Creation Kit, Pandora, Synthesis, Wrye Bash (the list goes on and on). Let me handle all of that for you.
 
-True North brings the greatest mods together into one cohesive, carefully curated experience — so you can spend less time tweaking, and more time exploring﻿. As a mod developer myself, you can rest easy knowing I’ve meticulously crafted this list to make the most of your system, wasting as few resources as possible ﻿while still delivering that next-gen Skyrim experience. NO ADDITIONAL SETUP REQUIRED PLUG AND PLAY.
+ NO ADDITIONAL SETUP REQUIRED PLUG AND PLAY.
 
 [🗺️ The Vision]
 
