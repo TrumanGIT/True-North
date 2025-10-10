@@ -27,7 +27,7 @@ Recommended tweaks:
 Press Up arrow key to enable / disable camera preset
 
 Survival Mode is enabled by default, which also disables fast travel. To compensate, Carriage Ferry Travel Overhaul and Road Signs Fast Travel 
-are added—more carriage drivers appear, and activating a road sign lets you fast travel to any town listed on it.
+are added—more carriage drivers appear, and activating a road sign lets you fast travel to any town listed on it. (disable survival mode improved mod to turn off survival mode)
 
 Rebind the Power Attack key (default: V) via the BFCO MCM menu.
 
