@@ -20,6 +20,8 @@ After Wabbajack finishes installing, delete all files in the Downloads folder to
 
 The list automatically configures itself — no manual setup is needed in game.
 
+Press Up arrow key to enable / disable camera preset
+
 Recommended tweaks:
 
 Survival Mode is enabled by default, which also disables fast travel. To compensate, Carriage Ferry Travel Overhaul and Road Signs Fast Travel 
