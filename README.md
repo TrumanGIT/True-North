@@ -22,9 +22,8 @@ The list automatically configures itself — no manual setup is needed in game.
 
 Recommended tweaks:
 
-Survival mode is on by defaiult (disable survival mode impoved mod to shut it off)  which also disables fast travel. to make it not so horrible, Carriage Ferry Travel Overhaul And road signs fast travel has been enabled. 
-
-More carraige drivers have been added and activating any road sign will allow you to fast travel to any town named on the roadsign itself. (Only performance friendly way I could find to enable fast travel with survival mode improved on) 
+Survival Mode is enabled by default, which also disables fast travel. To compensate, Carriage Ferry Travel Overhaul and Road Signs Fast Travel 
+are added—more carriage drivers appear, and activating a road sign lets you fast travel to any town listed on it.
 
 Rebind the Power Attack key (default: V) via the BFCO MCM menu.
 On starting a new game, the world begins at a random point in the seasonal cycle (it might be winter or summer).
