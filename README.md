@@ -28,7 +28,7 @@ Choose your character’s voice in the DBVO MCM menu (options available for both
 
 [🎮CONTROLS]
 
-True north starts with default vanilla controls configure to your liking. below are mod added keys thar are good to know about. 
+True north starts with default vanilla controls configure to your liking. below are mod added keys that are good to know. 
 
 V Key = Power Attack key, change via the BFCO MCM menu.
 
