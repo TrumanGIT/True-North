@@ -101,7 +101,7 @@ NPC Spell Variance — reworks NPC spell logic so mages use their full arsenal, 
 
 Every notable questline has been overhauled to provide more choice and freedom.
 
-Some notable new quests/content you might want to check out:
+Some new quests/content you might want to check out:
 
 🗺️ Penitus Occulatus
 
