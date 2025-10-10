@@ -87,7 +87,7 @@ Seasons of Skyrim Integration — experience the world transform as winter arriv
 
 [⚔️ Combat]
 
-Vanilla Skyrim’s third-person combat suffers from “ice skating,” with attacks feeling weightless. True North replaces this with a grounded step & swing system using the latest and greatest combat framework BFCO. (In game, open bfco MCM menu to change POWER ATTACK key) First-person combat has also been fully overhauled with the same attention to detail. 
+Vanilla Skyrim’s third-person combat suffers from “ice skating,” with attacks feeling weightless. True North replaces this with a grounded step & swing system using the latest and greatest combat framework BFCO. dodging and timed blocking has been added and First-person combat has also been fully overhauled with the same attention to detail. 
 
 Combat is further elevated by four key combat overhauls:
 
