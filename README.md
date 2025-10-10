@@ -21,6 +21,10 @@ After Wabbajack finishes installing, delete all files in the Downloads folder to
 The list automatically configures itself — no manual setup is needed in game.
 
 Recommended tweaks:
+Survival mode is on by defaiult (disable survival mode impoved mod to shut it off)  which also disables fast travel. to make it not so horrible, Carriage Ferry Travel Overhaul And road signs fast travel has been enabled. 
+
+More carraige drivers have been added and activating any road sign will allow you to fast travel to any town named on the roadsign itself. (Only performance friendly way I could find to enable fast travel with survival mode improved on) 
+
 Rebind the Power Attack key (default: V) via the BFCO MCM menu.
 On starting a new game, the world begins at a random point in the seasonal cycle (it might be winter or summer).
 To change this, open the Select Your Season MCM menu — available for a limited time after character creation.
