@@ -1,7 +1,7 @@
 # True-North
 
 
-[IMPORTANT INFO FOR NEW PLAYERS]
+[👶 IMPORTANT INFO FOR NEW PLAYERS]
 
 NO STOCK GAME FOLDER!
 What does that mean?: 
@@ -26,7 +26,8 @@ To change this, open the Select Your Season MCM menu — available for a limited
 
 Choose your character’s voice in the DBVO MCM menu (options available for both male and female voices).
 
-[CONTROLS]
+[🎮CONTROLS]
+
 True north starts with default vanilla controls configure to your liking. below are mod added keys thar are good to know about. 
 
 change the Power Attack key (default: V) via the BFCO MCM menu.
