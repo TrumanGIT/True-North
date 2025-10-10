@@ -90,8 +90,11 @@ Vanilla Skyrim’s third-person combat suffers from “ice skating,” with atta
 Combat is further elevated by four key combat overhauls:
 
 Precision — brings true physics-based melee, realistic collisions, hit reactions, and weapon feedback.
+
 Dismemberment Framework — adds real-time dismemberment, adaptive sound effects, and blood physics for visceral realism.
+
 Sanguine Symphony — enhances impact and atmosphere with cinematic blood splatters, detailed decals, slow-motion finishers, and heavy hit feedback.
+
 NPC Spell Variance — reworks NPC spell logic so mages use their full arsenal, including support, utility, and rune spells. No more mindless fireball spam — enemies now think, adapt, and fight with real strategy.
 
 [👥 NPCs]
