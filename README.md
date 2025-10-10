@@ -10,31 +10,35 @@ It means you need to have a clean install of skyrim Anniversary Edition (CC cont
 A clean install means the game files haven’t been modified — for example, no SKSE, Engine Fixes, or ENB files added. However, ESPs cleaned with SSEEdit are perfectly fine.
 Steam version is prefferable The GOG version has not been tested and may not be work im not sure. 
 
-
-
 Widescreens have not been tested and are not supported currently. Controller and gamepad should work fine.
-
-
 
 After Wabbajack finishes installing, delete all files in the Downloads folder to free up space (over 50GB).
 
 The list automatically configures itself — no manual setup is needed in game.
-
-
 
 Recommended tweaks:
 
 Survival Mode is enabled by default, which also disables fast travel. To compensate, Carriage Ferry Travel Overhaul and Road Signs Fast Travel 
 are added—more carriage drivers appear, and activating a road sign lets you fast travel to any town listed on it. (disable survival mode improved mod to turn off survival mode)
 
-Rebind the Power Attack key (default: V) via the BFCO MCM menu.
-
 On starting a new game, the world begins at a random point in the seasonal cycle (it might be winter or summer).
 To change this, open the Select Your Season MCM menu — available for a limited time after character creation.
 
 Choose your character’s voice in the DBVO MCM menu (options available for both male and female voices).
 
+[CONTROLS]
+True north starts with default vanilla controls configure to your liking. below are mod added keys thar are good to know about. 
+
+change the Power Attack key (default: V) via the BFCO MCM menu.
+
+
 Press Up arrow key to enable / disable camera preset
+
+Press page up key to interact with npcs from a distance
+
+Press 3 to taunt npcs and gain a buff (only works in combat) 
+
+press delete to open modem a cheat menu that can summon any npc or item in the game. you can also teleport anywhere. 
 
 [True North]
 
