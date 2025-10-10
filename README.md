@@ -30,8 +30,10 @@ Survival Mode is enabled by default, which also disables fast travel. To compens
 are added—more carriage drivers appear, and activating a road sign lets you fast travel to any town listed on it.
 
 Rebind the Power Attack key (default: V) via the BFCO MCM menu.
+
 On starting a new game, the world begins at a random point in the seasonal cycle (it might be winter or summer).
 To change this, open the Select Your Season MCM menu — available for a limited time after character creation.
+
 Choose your character’s voice in the DBVO MCM menu (options available for both male and female voices).
 
 [True North]
