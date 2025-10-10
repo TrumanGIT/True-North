@@ -30,21 +30,29 @@ Choose your character’s voice in the DBVO MCM menu (options available for both
 
 True north starts with default vanilla controls configure to your liking. below are mod added keys thar are good to know about. 
 
-change the Power Attack key (default: V) via the BFCO MCM menu.
+V Key = Power Attack key, change via the BFCO MCM menu.
 
-Press Caps Lock to open the quick menu. While holding Caps Lock, press M to open a new menu, then press N to add a new slot in that menu. You can then click on items in your inventory to assign them for quick access.
+Caps Lock – Open the quick menu.
+While holding Caps Lock:
+ • Press M to open a new menu.
+ • Press N to add a new slot to that menu.
+ • Click on items in your inventory to assign them for quick access.
 
-Press Up arrow key to enable / disable camera preset.
+↑ Arrow Key – Enable or disable the camera preset.
+↓ Arrow Key – Command all followers to stop or wait.
 
-Press arrow down key to command all followers to stop/wait.
+Page Up – Interact with NPCs from a distance.
 
-Press page up key to interact with npcs from a distance.
+3 Key – Taunt nearby NPCs to gain a combat buff (only works during combat).
 
-Press 3 to taunt npcs and gain a buff (only works in combat).
-
-Press home when hovering over an object to move and place any item exactly how you see fit. Press right click to confirm the new change while left click will cancel. (perfect when your trying to position something in your home exactly how you want it)
-
-Press delete to open "Modex" a cheat menu that can summon any npc or item in the game. It can also teleport you anywhere. useful for troubleshooting
+Home Key – When hovering over an object, move and place items freely:
+ • Right Click – Confirm the new position.
+ • Left Click – Cancel changes.
+ (Perfect for precisely decorating your home.)
+Delete Key – Open Modex, a cheat/debug menu that lets you:
+ • Summon any NPC or item.
+ • Teleport anywhere.
+ (Useful for testing or troubleshooting.)
 
 [True North]
 
