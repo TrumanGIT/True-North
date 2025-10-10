@@ -31,13 +31,15 @@ True north starts with default vanilla controls configure to your liking. below 
 
 change the Power Attack key (default: V) via the BFCO MCM menu.
 
-Press Up arrow key to enable / disable camera preset
+Press Caps Lock to open the quick menu. While holding Caps Lock, press M to open a new menu, then press N to add a new slot in that menu. You can then click on items in your inventory to assign them for quick access.
 
-Press arrow down key to command all followers to stop/wait
+Press Up arrow key to enable / disable camera preset.
 
-Press page up key to interact with npcs from a distance
+Press arrow down key to command all followers to stop/wait.
 
-Press 3 to taunt npcs and gain a buff (only works in combat) 
+Press page up key to interact with npcs from a distance.
+
+Press 3 to taunt npcs and gain a buff (only works in combat).
 
 press delete to open modem a cheat menu that can summon any npc or item in the game. you can also teleport anywhere. 
 
