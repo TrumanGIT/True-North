@@ -42,7 +42,7 @@ Press page up key to interact with npcs from a distance.
 
 Press 3 to taunt npcs and gain a buff (only works in combat).
 
-Press home when hovering over an object to move and place any item exactly how you see fit. pressing right click will confirm the new change while clicking left click will cancel.
+Press home when hovering over an object to move and place any item exactly how you see fit. Press right click to confirm the new change while left click will cancel. (perfect when your trying to position something in your home exactly how you want it)
 
 Press delete to open "Modex" a cheat menu that can summon any npc or item in the game. It can also teleport you anywhere. useful for troubleshooting
 
