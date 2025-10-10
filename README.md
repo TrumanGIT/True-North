@@ -46,10 +46,11 @@ Page Up – Interact with NPCs from a distance.
 
 3 Key – Taunt nearby NPCs to gain a combat buff (only works during combat).
 
-Home Key – When hovering over an object, move and place items freely:
+Home Key – Move any object your looking at freely.
  • Right Click – Confirm the new position.
  • Left Click – Cancel changes.
  (Perfect for precisely decorating your home.)
+ 
 Delete Key – Open Modex, a cheat/debug menu that lets you:
  • Summon any NPC or item.
  • Teleport anywhere.
