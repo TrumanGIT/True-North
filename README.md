@@ -39,6 +39,7 @@ While holding Caps Lock:
  • Click on items in your inventory to assign them for quick access.
 
 ↑ Arrow Key – Enable or disable the camera preset.
+
 ↓ Arrow Key – Command all followers to stop or wait.
 
 Page Up – Interact with NPCs from a distance.
