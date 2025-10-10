@@ -31,8 +31,9 @@ True north starts with default vanilla controls configure to your liking. below 
 
 change the Power Attack key (default: V) via the BFCO MCM menu.
 
-
 Press Up arrow key to enable / disable camera preset
+
+Press arrow down key to command all followers to stop/wait
 
 Press page up key to interact with npcs from a distance
 
