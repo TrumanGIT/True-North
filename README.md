@@ -112,6 +112,10 @@ The Restless Dead breathes new life into Skyrim’s undead, introducing diverse 
 
 Lawless overhauls bandits across Skyrim and Solstheim, adding new archetypes, scalable levels, and varied combat styles — ensuring every bandit encounter is challenging, dynamic, and immersive.
 
+Vigilants have been given ALOT of love with brand new equipment and a mod added allowing you to rebuild the hall of the vigilants afer its destroyed after level 10. (https://www.nexusmods.com/skyrimspecialedition/mods/49346)
+
+Silverhand now has a new set of gear and is no longer hostile to the player for no reason. Silverhand will only become hostile if you join the Companions and become a werewolf, as intended. You can find out a bit of their story and might even become a honorary member.
+
 [📈 Performance]
 
 True North delivers a next-gen experience without compromising performance. On a system with an NVIDIA RTX 4060 8GB gpu and Intel i7-13700KF cpu, True North maintains 60 FPS across all areas, from dense cities to open wilderness. With experience as an SKSE developer, rest assured I’ve carefully optimized the modlist to run smooth even on older machines. 
