@@ -24,8 +24,6 @@ The list automatically configures itself — no manual setup is needed in game.
 
 Recommended tweaks:
 
-Press Up arrow key to enable / disable camera preset
-
 Survival Mode is enabled by default, which also disables fast travel. To compensate, Carriage Ferry Travel Overhaul and Road Signs Fast Travel 
 are added—more carriage drivers appear, and activating a road sign lets you fast travel to any town listed on it. (disable survival mode improved mod to turn off survival mode)
 
@@ -35,6 +33,8 @@ On starting a new game, the world begins at a random point in the seasonal cycle
 To change this, open the Select Your Season MCM menu — available for a limited time after character creation.
 
 Choose your character’s voice in the DBVO MCM menu (options available for both male and female voices).
+
+Press Up arrow key to enable / disable camera preset
 
 [True North]
 
