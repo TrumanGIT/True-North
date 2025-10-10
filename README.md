@@ -94,29 +94,27 @@ NPC Spell Variance — reworks NPC spell logic so mages use their full arsenal, 
 
 [👥 NPCs]
 
-NPCs now live real lives. They follow routines, interact with the world, react to danger and the weather, and respond dynamically to events. Strangers won’t automatically greet you, families mourn the loss of loved ones, spouses move freely around town, and cities finally feel alive.
-Visual overhauls bring NPCs to life with handpicked mods from the most talented creators, while preserving the rugged,  look appropriate for those living in skyrims harsh climate.
+NPCs now react to danger and the weather, and respond dynamically to events. Strangers won’t automatically greet you, families mourn the loss of loved ones, spouses move freely around town, and cities finally feel alive.
+With my mod Love Is In The Air, NPCs can meet, fall in love, marry, move in together, and even invite you to their weddings if your friends — adding real social life and emotion to Skyrim.
+
+Visual overhauls bring NPCs to life with handpicked mods from the most talented creators, while preserving the rugged, look appropriate for those living in skyrims harsh climate.
 
 Every faction has been reimagined:
 
 Madmen transforms the Forsworn, giving them a unique identity, shamanistic powers, and even rare werewolf transformations — a dramatic departure from the vanilla “antler bandits.”
+
 The Restless Dead breathes new life into Skyrim’s undead, introducing diverse draugr, skeletons, and ghosts with unique tactics and visual variety. Every dungeon populated by the undead now offers new boss encounters.
+
 Lawless overhauls bandits across Skyrim and Solstheim, adding new archetypes, scalable levels, and varied combat styles — ensuring every bandit encounter is challenging, dynamic, and immersive.
 
 [📈 Performance]
 
-True North delivers a next-gen experience without compromising performance. On a system with an NVIDIA RTX 4060 8GB and Intel i7-13700KF cpu, True North maintains 60 FPS across all areas, from dense cities to open wilderness. With experience as an SKSE developer, rest assured I’ve carefully optimized the modlist to provide smooth, stable gameplay even during large-scale battles and dynamic events. I suspect this to be one of the most FPS friendly lists of its size. 
-
-Does not support widescreen, though I may add it. 
-
-Requires steam version of the game probably I haven't tried with other game versions. 
+True North delivers a next-gen experience without compromising performance. On a system with an NVIDIA RTX 4060 8GB gpu and Intel i7-13700KF cpu, True North maintains 60 FPS across all areas, from dense cities to open wilderness. With experience as an SKSE developer, rest assured I’ve carefully optimized the modlist to run smooth even on older machines. 
 
 [🏔️ Conclusion]
 
-I made this modlist for myself, to play the modded version of Skyrim I’ve always dreamed of  — and now its available for everyone else.  
-
 Im from northern Canada 🇨🇦 and skyrim reminds me of home. The northern lights especiialy which I can view form my front porch. 
 
-The northern lights you see in this version of skyrim are as close as I can get to the real thing. 
+I made this modlist for myself, to play the modded version of Skyrim I’ve always dreamed of  — and now its available for everyone else.  
 
 Enjoy : ) 
