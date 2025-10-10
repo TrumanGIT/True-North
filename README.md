@@ -36,7 +36,7 @@ Caps Lock – Open the quick menu.
 While holding Caps Lock:
  • Press M to open a new menu.
  • Press N to add a new slot to that menu.
- • Click on items in your inventory to assign them for quick access.
+ • Click on items in your inventory while holding capos lock to assign them for quick access.
 
 ↑ Arrow Key – Enable or disable the camera preset.
 
