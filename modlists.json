@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "True North",
-    "description": "True North is a Wabbajack modlist of over 1,000 mods, combining 14+ years of the Skyrim modding communitys work into one cohesive, optimized experience. It stays true to Skyrim’s spirit while enhancing every aspect: fully voiced main character, (can turn off)  integrated survival mechanics (can turn off), experience Skyrim transform as winter arrives, draping every hold in a stunning blanket of snow. Combat has been rebuilt from the ground up with BFCO, smarter AI, Dismemberment and Core Impact Frameworks. Despite its scale, True North runs smoothly at 60 FPS even on 8 GB GPUs. (GOG Not Tested)",
+    "description": "True North is a Wabbajack modlist of over 1,000 mods, combining 14+ years of the Skyrim modding communitys work into one cohesive, optimized experience. Fully voiced main character (can turn off), survival gameplay (can turn off), experience Skyrim transform as winter arrives, draping every hold in a stunning blanket of snow. Combat has been rebuilt from the ground up with BFCO, smarter AI, Dismemberment and Core Impact Frameworks. Every notable questline expanded to provide more role playing opportunity. hours upon hours of new content. Despite its scale, True North runs smoothly at 60 FPS even on 8 GB GPUs. (GOG Not Tested)",
     "author": "Truman",
     "maintainers": [
       "github/Easychips"
