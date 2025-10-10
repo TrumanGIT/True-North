@@ -54,7 +54,7 @@ True North is my vision of Skyrim —a wabbajack list of 1000+ mods. A celebrati
 
 Modding Skyrim in 2025 is no easy task. To get the best possible experience, you need to master countless tools — xEdit, DynDOLOD, xLODGen, Grass Cache, Creation Kit, Pandora, Synthesis, Wrye Bash (the list goes on and on). Let me handle all of that for you.
 
- NO ADDITIONAL SETUP REQUIRED PLUG AND PLAY.
+The list automatically configures itself — no manual setup is needed in game.
 
 [🗺️ The Vision]
 
