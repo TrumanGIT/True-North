@@ -32,7 +32,7 @@ True north starts with default vanilla controls configure to your liking. below 
 
 V Key = Power Attack key, change via the BFCO MCM menu.
 
-Caps Lock – Open the quick menu.
+Caps Lock – Open the quick menu. (change key in the wheeler menu by fressing insert)
 While holding Caps Lock:
  • Press M to open a new menu.
  • Press N to add a new slot to that menu.
