@@ -8,7 +8,7 @@ From the list, select “Edit…” and find SKSE.
 
 Change the first path so that it points to:
 
-[Wherever You Installed True North]\True North\mods\SKSE\skse64_loader.exe
+Wherever You Installed True North\True North\mods\SKSE\skse64_loader.exe
 
 You can now safely delete all files in the “Downloads” folder to free up over 50 GB of space.
 
