@@ -1,4 +1,18 @@
 # True-North
+🧩 Final Setup Step (Important!)
+After Wabbajack finishes installing: Open ModOrganizer.exe inside your True North folder.
+
+Find the Run button — next to it, click the dropdown arrow (More Options).
+
+From the list, select “Edit…” and find SKSE.
+
+Change the first path so that it points to:
+
+[Wherever You Installed True North]\True North\mods\SKSE\skse64_loader.exe
+
+You can now safely delete all files in the “Downloads” folder to free up over 50 GB of space.
+
+Once you launch the game, everything will auto-configure — no further manual setup required.
 
 
 [👶 IMPORTANT INFO FOR NEW PLAYERS]
@@ -11,10 +25,6 @@ A clean install means the game files haven’t been modified — for example, no
 Steam version is prefferable The GOG version has not been tested and may not be work im not sure. 
 
 Widescreens have not been tested and are not supported currently. Controller and gamepad should work fine.
-
-After Wabbajack finishes installing, delete all files in the Downloads folder to free up space (over 50GB).
-
-The list automatically configures itself — no manual setup is needed in game.
 
 Recommended tweaks:
 
