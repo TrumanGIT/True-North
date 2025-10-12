@@ -66,7 +66,7 @@ Delete Key – Open Modex, a cheat/debug menu that lets you:
  • Teleport anywhere.
  (Useful for testing or troubleshooting.)
 
- B key = warm yuor hands (I press when standing near a fire to warm up) 
+ B key = warm your hands (I press when standing near a fire to warm up) 
 
 [True North]
 
