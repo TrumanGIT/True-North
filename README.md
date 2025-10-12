@@ -42,11 +42,12 @@ True north starts with default vanilla controls configure to your liking. below 
 
 V Key = Power Attack key, change via the BFCO MCM menu.
 
-Caps Lock – Open the quick menu. (change key in the wheeler menu by pressing insert)
+Caps Lock – Open the quick menu. 
 While holding Caps Lock:
  • Press M to open a new menu.
  • Press N to add a new slot to that menu.
  • Click on items in your inventory while holding capos lock to assign them for quick access.
+(change quick menu key by going to whereeverYouDownloadedThisModlist\True North\mods\Wheeler - Quick Action Wheel Of Skyrim\SKSE\Plugins\wheeler\Controls.ini)
 
 ↑ Arrow Key – Enable or disable the camera preset.
 
