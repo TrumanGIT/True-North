@@ -25,6 +25,7 @@ A clean install means the game files haven’t been modified — for example, no
 Steam version is prefferable The GOG version has not been tested and may not be work im not sure. 
 
 Widscreen, Controller and gamepad should work fine.
+(wide screens can also redownload "DBVO" and "Lore-Friendly Load Screen Compendium (16-9) (2K)" mods and select the ultra wide options if they wish)
 
 Recommended tweaks:
 
