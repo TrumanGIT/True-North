@@ -20,7 +20,7 @@ Once you launch the game, everything will auto-configure — no further manual s
 NO STOCK GAME FOLDER!
 What does that mean?: 
 
-It means you need to have a clean install of skyrim Anniversary Edition (CC content that came with AE is required) ready on your computer. 
+It means you need to have a clean install of skyrim Anniversary Edition version 1.70 for steam or 1.79 for GOG (CC content that came with AE is required) ready on your computer. 
 A clean install means the game files haven’t been modified — for example, no SKSE, Engine Fixes, or ENB files added. However, ESPs cleaned with SSEEdit are perfectly fine.
 Steam version is prefferable The GOG version has not been tested and may not be work im not sure. 
 
