@@ -24,7 +24,7 @@ It means you need to have a clean install of skyrim Anniversary Edition (CC cont
 A clean install means the game files haven’t been modified — for example, no SKSE, Engine Fixes, or ENB files added. However, ESPs cleaned with SSEEdit are perfectly fine.
 Steam version is prefferable The GOG version has not been tested and may not be work im not sure. 
 
-Widescreens have not been tested and are not supported currently. Controller and gamepad should work fine.
+Widscreen, Controller and gamepad should work fine.
 
 Recommended tweaks:
 
