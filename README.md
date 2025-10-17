@@ -173,7 +173,7 @@ Silverhand now has a new set of gear and is no longer hostile to the player for 
 
 [📈 Performance]
 
-True North delivers a next-gen experience without compromising performance. On a system with an NVIDIA RTX 4060 8GB gpu and Intel i7-13700KF cpu, True North maintains 60 FPS across all areas, from dense cities to open wilderness. With experience as an SKSE developer, rest assured I’ve carefully optimized the modlist to run smooth even on older machines. 
+True North delivers a next-gen experience without compromising performance. On a system with an NVIDIA RTX 4060 8GB gpu and Intel i7-13700KF cpu, True North maintains 60 FPS across all areas. With experience as an SKSE developer, rest assured I’ve carefully optimized the modlist to run smooth even on older machines. 
 
 Should you still encounter fps drops, I reccomened disabling Community shaders and its add ones. Community shaders does the heavy lifting of the graphical improvements but comes at the cost of a sizeable performance impact. 
 
