@@ -69,6 +69,8 @@ Delete Key – Open Modex, a cheat/debug menu that lets you:
 
  B key = warm your hands (I press when standing near a fire to warm up) 
 
+ F1 - Open up skse menu framework to tweak some mods including my own hail mod where you can play with hail physics in real time. 
+
 [True North]
 
 True North is my vision of Skyrim —a wabbajack list of 1000+ mods. A celebration of the Skyrim modding community’s incredible work over the last 14+ years.
