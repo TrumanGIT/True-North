@@ -29,7 +29,7 @@ Widscreen, Controller and gamepad should work fine.
 Recommended tweaks:
 
 Survival Mode is enabled by default, which also disables fast travel. To compensate, Carriage Ferry Travel Overhaul and Road Signs Fast Travel 
-are added—more carriage drivers appear, and activating a road sign lets you fast travel to any town listed on it. (disable survival mode improved mod to turn off survival mode)
+are added—more carriage drivers appear, and activating a road sign lets you fast travel to any town listed on it. (disable survival mode improved mod or visit the main menu game settings to turn off survival mode)
 
 On starting a new game, the world begins at a random point in the seasonal cycle (it might be winter or summer).
 To change this, open the Select Your Season MCM menu — available for a limited time after character creation.
