@@ -43,12 +43,12 @@ True north starts with default vanilla controls configure to your liking. below 
 
 V Key = Power Attack key, change via the BFCO MCM menu.
 
-Caps Lock – Open the quick menu. 
+Caps Lock – Open the quick menu.
 While holding Caps Lock:
- • Press M to open a new menu.
+ • Click on items in your inventory while holding capos lock to assign them for quick access. 
+ • Press M to open a new menu.
  • Press N to add a new slot to that menu.
- • Click on items in your inventory while holding capos lock to assign them for quick access.
-(change quick menu key by going to whereeverYouDownloadedThisModlist\True North\mods\Wheeler - Quick Action Wheel Of Skyrim\SKSE\Plugins\wheeler\Controls.ini)
+(change quick menu menu key by going to whereeverYouDownloadedThisModlist\True North\mods\Wheeler - Quick Action Wheel Of Skyrim\SKSE\Plugins\wheeler\Controls.ini)
 
 ↑ Arrow Key – Enable or disable the camera preset.
 
@@ -71,6 +71,8 @@ Delete Key – Open Modex, a cheat/debug menu that lets you:
  B key = warm your hands (I press when standing near a fire to warm up) 
 
  F1 - Open up skse menu framework to tweak some mods including my own hail mod where you can play with hail physics in real time. 
+
+ You can bath by using a power. 
 
 [True North]
 
