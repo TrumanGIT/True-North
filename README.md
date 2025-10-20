@@ -74,6 +74,8 @@ Delete Key – Open Modex, a cheat/debug menu that lets you:
 
  You can bath by using a power. 
 
+ you can also power attack a chest to open it. 
+
 [True North]
 
 True North is my vision of Skyrim —a wabbajack list of 1000+ mods. A celebration of the Skyrim modding community’s incredible work over the last 14+ years.
