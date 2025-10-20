@@ -113,7 +113,7 @@ Precision — brings true physics-based melee, realistic collisions, hit reactio
 
 Dismemberment Framework — adds real-time dismemberment, adaptive sound effects, and blood physics for visceral realism.
 
-Sanguine Symphony — enhances impact and atmosphere with cinematic blood splatters, detailed decals, slow-motion finishers, and heavy hit feedback.
+Sanguine Symphony — enhances combat with with brutal visual effects like adaptive blood splatters, detailed decals, HD wound textures, and custom sound design.
 
 NPC Spell Variance — reworks NPC spell logic so mages use their full arsenal, including support, utility, and rune spells. No more mindless fireball spam — enemies now think, adapt, and fight with real strategy.
 
