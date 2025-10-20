@@ -56,6 +56,8 @@ While holding Caps Lock:
 
 Page Up – Interact with NPCs from a distance.
 
+H key - call your horse 🐎 
+
 3 Key – Taunt nearby NPCs to gain a combat buff (only works during combat).
 
 Home Key – Move any object your looking at freely.
