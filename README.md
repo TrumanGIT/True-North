@@ -50,6 +50,8 @@ While holding Caps Lock:
  • Press N to add a new slot to that menu.
 (change quick menu menu key by going to whereeverYouDownloadedThisModlist\True North\mods\Wheeler - Quick Action Wheel Of Skyrim\SKSE\Plugins\wheeler\Controls.ini)
 
+SPACE Key - in addition to jumping, holding space allows you character to climb anything withing reach (out of combat only) 
+
 ↑ Arrow Key – Enable or disable the camera preset.
 
 ↓ Arrow Key – Command all followers to stop or wait.
