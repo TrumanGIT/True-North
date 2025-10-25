@@ -20,7 +20,7 @@ Once you launch the game, everything will auto-configure — no further manual s
 NO STOCK GAME FOLDER!
 What does that mean?: 
 
-It means you need to have a clean install of skyrim Anniversary Edition version 1.70 for steam or 1.79 for GOG (CC content that came with AE is required) ready on your computer. 
+It means you need to have a clean install of (GOG Version not tested) skyrim Anniversary Edition version 1.70 for steam. (CC content that came with AE is required) ready on your computer. 
 A clean install means the game files haven’t been modified — for example, no SKSE, Engine Fixes, or ENB files added. However, ESPs cleaned with SSEEdit are perfectly fine.
 Steam version is prefferable The GOG version has not been tested and may not be work im not sure. 
 
@@ -62,6 +62,8 @@ H key - call your horse 🐎
 
 3 Key – Taunt nearby NPCs to gain a combat buff (only works during combat).
 
+B key = warm your hands (I press when standing near a fire to warm up) 
+
 Home Key – Move any object your looking at freely.
  • Right Click – Confirm the new position.
  • Left Click – Cancel changes.
@@ -72,7 +74,7 @@ Delete Key – Open Modex, a cheat/debug menu that lets you:
  • Teleport anywhere.
  (Useful for testing or troubleshooting.)
 
- B key = warm your hands (I press when standing near a fire to warm up) 
+Insert - Open the widigts config. (move or change the debuff / buff icons that appear in top right hand corner of screen)
 
  F1 - Open up skse menu framework to tweak some mods including my own hail mod where you can play with hail physics in real time. 
 
