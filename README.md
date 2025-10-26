@@ -129,7 +129,7 @@ Summary: Join the Penitus Oculatus and destroy the Dark Brotherhood — or save 
 
 How to Start: After you complete the quest "Destroy the Dark Brotherhood!", you can join the Penitus Oculatus by speaking to Commander Maro.
 
-Notes: Destory the dark brotherhood quest itself has also been greatley expanded
+Notes: Destory the dark brotherhood quest itself has also been greatly expanded
 
 Link: [Penitus Occulatus] https://www.nexusmods.com/skyrimspecialedition/mods/21061 [Destroy The Dark Brotherhood] https://www.nexusmods.com/skyrimspecialedition/mods/118229 
 
@@ -162,7 +162,17 @@ Link: https://www.nexusmods.com/skyrimspecialedition/mods/133579
 NPCs now react to danger and the weather, and respond dynamically to events. Strangers won’t automatically greet you, families mourn the loss of loved ones, spouses move freely around town, and cities finally feel alive.
 With my mod Love Is In The Air, NPCs can meet, fall in love, marry, move in together, and even invite you to their weddings if your friends — adding real social life and emotion to Skyrim.
 
-Visual overhauls bring NPCs to life with handpicked mods from the most talented creators, while preserving the rugged, look appropriate for those living in skyrims harsh climate.
+Visual overhauls bring ecer NPCs to life with a new look thanks to handpicked mods from the most talented creators, while preserving the rugged, look appropriate for those living in skyrims harsh climate.
+
+most vanilla npc followers have been greatly expanded with the "follower dialogue expansion" series to ensure using your old favourite followers feels fresh again. 
+
+My favourite follower creater Craftian's followers can be found in this list:
+
+Celestine - A devout follower of stendarr found in front of the jade palace.
+
+Nessa - A thief whos lost her arm during her last heist. Can be found in Rorikstead Inn
+
+Light and Shade - a blind travelling mercenary with a charming curiousity. She can be found in whiterun bannered mare inn. 
 
 Every faction has been reimagined:
 
