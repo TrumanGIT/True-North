@@ -32,10 +32,10 @@ Recommended tweaks:
 Survival Mode is enabled by default, which also disables fast travel. To compensate, Carriage Ferry Travel Overhaul and Road Signs Fast Travel 
 are added—more carriage drivers appear, and activating a road sign lets you fast travel to any town listed on it. (disable survival mode improved mod or visit the main menu game settings to turn off survival mode)
 
+Choose your character’s voice in the DBVO MCM menu (options available for both male and female voices).
+
 On starting a new game, the world begins at a random point in the seasonal cycle (it might be winter or summer).
 To change this, open the Select Your Season MCM menu — available for a limited time after character creation.
-
-Choose your character’s voice in the DBVO MCM menu (options available for both male and female voices).
 
 [🎮CONTROLS]
 
@@ -43,18 +43,14 @@ True north starts with default vanilla controls configure to your liking. below 
 
 V Key = Power Attack key, change via the BFCO MCM menu.
 
-Caps Lock – Open the quick menu.
-While holding Caps Lock:
- • Click on items in your inventory while holding capos lock to assign them for quick access. 
- • Press M to open a new menu.
- • Press N to add a new slot to that menu.
+Caps Lock (left directional pad button for controllers) – Open the quick menu. 
 (change quick menu menu key by going to whereeverYouDownloadedThisModlist\True North\mods\Wheeler - Quick Action Wheel Of Skyrim\SKSE\Plugins\wheeler\Controls.ini)
 
 SPACE Key - in addition to jumping, holding space allows you character to climb anything withing reach (out of combat only) 
 
 ↑ Arrow Key – Enable or disable the camera preset.
 
-↓ Arrow Key – Command all followers to stop or wait.
+↓ Arrow Key – Command all followers to stop or wait. (can change in nethors follower framework MCM settings in game) 
 
 Page Up – Interact with NPCs from a distance.
 
@@ -73,8 +69,6 @@ Delete Key – Open Modex, a cheat/debug menu that lets you:
  • Summon any NPC or item.
  • Teleport anywhere.
  (Useful for testing or troubleshooting.)
-
-Insert - Open the widigts config. (move or change the debuff / buff icons that appear in top right hand corner of screen)
 
  F1 - Open up skse menu framework to tweak some mods including my own hail mod where you can play with hail physics in real time. 
 
