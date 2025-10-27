@@ -76,6 +76,8 @@ Delete Key – Open Modex, a cheat/debug menu that lets you:
 
  you can also power attack a chest to open it. (how many times it takes to open a chest, depends on your weapon type and a bit of luck) 
 
+ You can give your followers horses to ride by using a power (you must own the horse before you can give it to your followers)
+ 
 [True North]
 
 True North is my vision of Skyrim —a wabbajack list of 1000+ mods. A celebration of the Skyrim modding community’s incredible work over the last 14+ years.
