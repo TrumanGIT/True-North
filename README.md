@@ -41,22 +41,22 @@ To change this, open the Select Your Season MCM menu — available for a limited
 
 True north starts with default vanilla controls configure to your liking. below are mod added keys that are good to know. 
 
-V Key = Power Attack key, change via the BFCO MCM menu.
+V Key = Power Attack key, change via the BFCO MCM menu. (you can also power attack by holding left mouse click like in vanilla, can also change in BFCO MCM menu)
 
 Caps Lock (left directional pad button for controllers) – Open the quick menu. 
 (change quick menu menu key by going to whereeverYouDownloadedThisModlist\True North\mods\Wheeler - Quick Action Wheel Of Skyrim\SKSE\Plugins\wheeler\Controls.ini)
 
-SPACE Key - in addition to jumping, holding space allows you character to climb anything withing reach (out of combat only) 
+SPACE Key - in addition to jumping, holding space allows you character to climb anything within reach (out of combat only) 
 
 ↑ Arrow Key – Enable or disable the camera preset.
 
 ↓ Arrow Key – Command all followers to stop or wait. (can change in nethors follower framework MCM settings in game) 
 
-Page Up – Interact with NPCs from a distance.
-
-H key - call your horse 🐎 
+Page Up – Interact with NPCs from a distance. (can change in Taunt / Remote Interactions MCM settings in game)
 
 3 Key – Taunt nearby NPCs to gain a combat buff (only works during combat).
+
+H key - call your horse 🐎 
 
 B key = warm your hands (I press when standing near a fire to warm up) 
 
@@ -74,7 +74,7 @@ Delete Key – Open Modex, a cheat/debug menu that lets you:
 
  You can bath by using a power. 
 
- you can also power attack a chest to open it. 
+ you can also power attack a chest to open it. (how many times it takes to open a chest, depends on your weapon type and a bit of luck) 
 
 [True North]
 
@@ -170,9 +170,9 @@ My favourite follower creater Craftian's followers can be found in this list:
 
 Celestine - A devout follower of stendarr found in front of the jade palace.
 
-Nessa - A thief whos lost her arm during her last heist. Can be found in Rorikstead Inn
+Nessa - A thief whos lost her arm during her last heist. She can be found in Rorikstead Inn
 
-Light and Shade - a blind travelling mercenary with a charming curiousity. She can be found in whiterun bannered mare inn. 
+Light and Shade - a blind travelling mercenary with a charming curiosity. She can be found in whiterun bannered mare inn. 
 
 Every faction has been reimagined:
 
