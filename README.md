@@ -98,10 +98,15 @@ Survival is fully integrated — not as a punishment, but as a way to slow down,
 
 [🌍 A Living, Breathing Skyrim]
 
-Dynamic world events — Thanks to SRC: Conquering of Skyrim, clearing a bandit fort means guards from the local hold will move in to reclaim it.
-Persistent world changes — Solve the mystery of a burned-down house and watch it be rebuilt later. Clear a monster-infested mine and return to see the nearby town thriving again. See the scars of the Civil War slowly heal over time. 
-Living relationships — Watch NPCs dynamically marry and move in together and be invited to their wedding if your current character happens to be friends! (Mod developed by yours truly.)
 Seasons of Skyrim Integration — experience the world transform as winter arrives, draping the all holds in a stunning blanket of snow. 
+
+Dynamic world events — Thanks to SRC: Conquering of Skyrim, clearing a bandit fort means guards from the local hold will move in to reclaim it.
+
+Persistent world changes — Solve the mystery of a burned-down house and watch it be rebuilt later. Clear a monster-infested mine and return to see the nearby town thriving again. 
+
+See the scars of the Civil War slowly heal over time. 
+
+Living relationships — Watch NPCs dynamically marry and move in together and be invited to their wedding if your current character happens to be friends! (Mod developed by yours truly.)
 
 [⚔️ Combat]
 
@@ -119,9 +124,19 @@ NPC Spell Variance — reworks NPC spell logic so mages use their full arsenal, 
 
 [📜 Quests]
 
-Every notable questline has been overhauled to provide more choice and freedom.
+Every notable questline has been overhauled to provide more choice and freedom but here are some new quests/content you might want to check out:
 
-Some new quests/content you might want to check out:
+☠️ Olenveld
+
+Summary: Explore the lore-rich island of Olenveld — a full DLC-sized new land with unique quests and an island recapturing system.
+How to Start: Travel to Septimus Signus’s Outpost, head behind the glacier until you find a cabin, then pick up the note inside.
+Link: https://www.nexusmods.com/skyrimspecialedition/mods/133579
+
+🌙 Sleepwalking Into A Nightmare
+
+Summary: A new Daedric quest where you track down a missing woman and explore her haunting nightmares to free her from Vaermina.
+
+How to Start: Speak with Ralforn in green-tip cabin, a new location north-east of Ivarstead, who will ask you for help to find his wife, Gretska. Link: https://www.nexusmods.com/skyrimspecialedition/mods/141047
 
 🗺️ Penitus Occulatus
 
@@ -132,12 +147,6 @@ How to Start: After you complete the quest "Destroy the Dark Brotherhood!", you 
 Notes: Destory the dark brotherhood quest itself has also been greatly expanded
 
 Link: [Penitus Occulatus] https://www.nexusmods.com/skyrimspecialedition/mods/21061 [Destroy The Dark Brotherhood] https://www.nexusmods.com/skyrimspecialedition/mods/118229 
-
-🌙 Sleepwalking Into A Nightmare
-
-Summary: A new Daedric quest where you track down a missing woman and explore her haunting nightmares to free her from fear.
-
-How to Start: Speak with Ralforn in green-tip cabin, a new location north-east of Ivarstead, who will ask you for help to find his wife, Gretska. Link: https://www.nexusmods.com/skyrimspecialedition/mods/141047
 
 🌊 Sirenroot
 
@@ -151,40 +160,33 @@ Summary: Help Fultheim the Fearless redeem himself and rejoin the Blades. Two po
 
 How to Start: A new dialogue option has been added to Fultheim to point out the fact that he has an Akaviri sword. Selecting that dialogue topic will start the new quest, "A Forgotten Blade". The topic will only appear after you progress in the Main Story to the point where the Blades have moved into Sky Haven Temple (i.e. complete the quest "Alduin's Wall"). Link: https://www.nexusmods.com/skyrimspecialedition/mods/136788
 
-☠️ Olenveld
-
-Summary: Explore the lore-rich island of Olenveld — a full DLC-sized new land with unique quests and an island recapturing system.
-How to Start: Travel to Septimus Signus’s Outpost, head behind the glacier until you find a cabin, then pick up the note inside.
-Link: https://www.nexusmods.com/skyrimspecialedition/mods/133579
-
 [👥 NPCs]
 
-NPCs now react to danger and the weather, and respond dynamically to events. Strangers won’t automatically greet you, families mourn the loss of loved ones, spouses move freely around town, and cities finally feel alive.
-With my mod Love Is In The Air, NPCs can meet, fall in love, marry, move in together, and even invite you to their weddings if your friends — adding real social life and emotion to Skyrim.
+NPCs now react to danger and the weather, and respond dynamically to events. Strangers won’t automatically greet you, and with my mod Love Is In The Air, NPCs can meet, fall in love, marry, move in together, and even invite you to their weddings if your friends — adding real social life and emotion to Skyrim.
 
-Visual overhauls bring ecer NPCs to life with a new look thanks to handpicked mods from the most talented creators, while preserving the rugged, look appropriate for those living in skyrims harsh climate.
+Visual overhauls bring every NPC to life with a new look thanks to a selection of appearence overhaul mods handpicked from the most talented creators, while preserving the rugged, look appropriate for those living in skyrims harsh climate.
 
-most vanilla npc followers have been greatly expanded with the "follower dialogue expansion" series to ensure using your old favourite followers feels fresh again. 
+Most vanilla npc followers have been greatly expanded with the "follower dialogue expansion" series to ensure using your old favourite followers feels fresh again. 
 
-My favourite follower creater Craftian's followers can be found in this list:
+My favourite follower creater Craftian's followers can also be found in this list:
 
-Celestine - A devout follower of stendarr found in front of the jade palace.
+Celestine - A devout follower of stendarr found in front of the Jade Palace.
 
-Nessa - A thief whos lost her arm during her last heist. She can be found in Rorikstead Inn
+Nessa - A thief whos lost her arm during her last heist. She can be found in Rorikstead inn
 
-Light and Shade - a blind travelling mercenary with a charming curiosity. She can be found in whiterun bannered mare inn. 
+Light and Shade - a blind travelling mercenary with a charming curiosity. She can be found in Whiterun Banneredmare inn. 
 
 Every faction has been reimagined:
 
-Madmen transforms the Forsworn, giving them a unique identity, shamanistic powers, and even rare werewolf transformations — a dramatic departure from the vanilla “antler bandits.”
+Madmen transforms the Forsworn, giving them a unique identity, shamanistic powers, and even rare werewolf transformations.
 
 The Restless Dead breathes new life into Skyrim’s undead, introducing diverse draugr, skeletons, and ghosts with unique tactics and visual variety. Every dungeon populated by the undead now offers new boss encounters.
 
-Lawless overhauls bandits across Skyrim and Solstheim, adding new archetypes, scalable levels, and varied combat styles — ensuring every bandit encounter is challenging, dynamic, and immersive.
+Lawless overhauls bandits across Skyrim and Solstheim, adding new archetypes, scalable levels, and varied combat styles — ensuring every bandit encounter is challenging and fresh. 
 
 Vigilants have been given ALOT of love with brand new equipment and a mod added allowing you to rebuild the hall of the vigilants afer its destroyed after level 10. (https://www.nexusmods.com/skyrimspecialedition/mods/49346)
 
-Silverhand now has a new set of gear and is no longer hostile to the player for no reason. Silverhand will only become hostile if you join the Companions and become a werewolf, as intended. You can find out a bit of their story and might even become a honorary member.
+Silverhand now has a new set of gear and is no longer hostile to the player for no reason. You can find out a bit of their story and might even become a honorary member. Silverhand will only become hostile if you join the Companions and become a werewolf.
 
 [📈 Performance]
 
