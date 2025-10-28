@@ -45,7 +45,7 @@ H key - call your horse 🐎
 
 B key = warm your hands (I press when standing near a fire to warm up) 
 
- Controls: Shift + Activate to do ALL the actions below
+Shift + Activate to do ALL the actions below
 
 Pet Horse: Show affection to your loyal steed. 
 
