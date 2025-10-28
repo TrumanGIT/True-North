@@ -31,7 +31,7 @@ V Key = Power Attack key (you can also power attack by holding left mouse click 
 Caps Lock (left directional pad button for controllers) – Open the quick menu. 
 (change quick menu menu key by going to whereeverYouDownloadedThisModlist\True North\mods\Wheeler - Quick Action Wheel Of Skyrim\SKSE\Plugins\wheeler\Controls.ini)
 
-SPACE Key - in addition to jumping, holding space allows you character to climb anything within reach (out of combat only) 
+SPACE Key - in addition to jumping, holding space allows your character to climb anything within reach (out of combat only) 
 
 ↑ Arrow Key – Enable or disable the camera preset.
 
