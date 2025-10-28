@@ -7,7 +7,7 @@ What does that mean?:
 
 It means you need to have a clean install of (GOG Version not tested) skyrim Anniversary Edition version 1.70 for steam. (CC content that came with AE is required) ready on your computer. 
 A clean install means the game files haven’t been modified — for example, no SKSE, Engine Fixes, or ENB files added. However, ESPs cleaned with SSEEdit are perfectly fine (and reccomended).
-Steam version is prefferable The GOG version has not been tested and may not be work im not sure. 
+Steam version is prefferable The GOG version has not been tested and may not be work.
 
 Widscreen, Controller and gamepad should work fine.
 (wide screens can also redownload "DBVO" and "Lore-Friendly Load Screen Compendium (16-9) (2K)" mods and select the ultra wide options if they wish)
