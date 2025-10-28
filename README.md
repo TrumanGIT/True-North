@@ -26,7 +26,7 @@ To change this, open the Select Your Season MCM menu — available for a limited
 
 True north starts with default vanilla controls configure to your liking. below are mod added keys that are good to know. 
 
-V Key = Power Attack key, change via the BFCO MCM menu. (you can also power attack by holding left mouse click like in vanilla, can also change in BFCO MCM menu)
+V Key = Power Attack key (you can also power attack by holding left mouse click like in vanilla, can also change in BFCO MCM menu)
 
 Caps Lock (left directional pad button for controllers) – Open the quick menu. 
 (change quick menu menu key by going to whereeverYouDownloadedThisModlist\True North\mods\Wheeler - Quick Action Wheel Of Skyrim\SKSE\Plugins\wheeler\Controls.ini)
