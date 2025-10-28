@@ -45,6 +45,24 @@ H key - call your horse 🐎
 
 B key = warm your hands (I press when standing near a fire to warm up) 
 
+ Controls: Shift + Activate to do ALL the actions below
+
+Pet Horse: Show affection to your loyal steed. 
+
+Pet Dog: Give friendly dogs the attention they deserve. 
+
+Applaud Bards: Appreciate Skyrim’s performers. 
+
+Milk Cows: Moooo. 
+
+Wave Hello to Children.
+
+Books & Notes: Instantly read them.
+
+Potions & Food: Instantly consume them.
+
+Weapons, Armor, Apparel: Instantly equip them.
+
 Home Key – Move any object your looking at freely.
  • Right Click – Confirm the new position.
  • Left Click – Cancel changes.
@@ -59,7 +77,7 @@ Delete Key – Open Modex, a cheat/debug menu that lets you:
 
  You can bath by using a power. 
 
- you can also power attack a chest to open it. (how many times it takes to open a chest, depends on your weapon type and a bit of luck) 
+ you can also power attack a chest to open it. (how many times it takes to open a chest, depends on your weapon type and the strength of the lock) 
 
  You can give your followers horses to ride by using a power (you must own the horse before you can give it to your followers)
  
