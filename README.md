@@ -201,7 +201,7 @@ Should you still encounter fps drops, I recommend disabling Community shaders. C
 
 [🏔️ Conclusion]
 
-Im from northern Canada 🇨🇦 and skyrim reminds me of home. The northern lights especiialy which I can view form my front porch. 
+Im from northern Canada and skyrim reminds me of home. The northern lights especiialy which I can view form my front porch. 
 
 I made this modlist for myself, to play the modded version of Skyrim I’ve always dreamed of  — and now its available for everyone else.  
 
