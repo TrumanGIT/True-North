@@ -1,4 +1,4 @@
-S# True-North
+# True-North
 
 [👶 IMPORTANT INFO FOR NEW PLAYERS]
 
