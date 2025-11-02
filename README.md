@@ -49,7 +49,19 @@ H key - call your horse 🐎
 
 B key = warm your hands (I press when standing near a fire to warm up) 
 
-Shift + Activate to do ALL the actions below
+Home Key – Move any object your looking at freely.
+ • Right Click – Confirm the new position.
+ • Left Click – Cancel changes.
+ (Perfect for precisely decorating your home.)
+ 
+Delete Key – Open Modex, a cheat/debug menu that lets you:
+ • Summon any NPC or item.
+ • Teleport anywhere.
+ (Useful for testing or troubleshooting.)
+
+ F1 - Open up skse menu framework to tweak some mods including my own hail mod where you can play with hail physics in real time. 
+
+ Shift + Activate to do ALL the actions below
 
 Pet Horse: Show affection to your loyal steed. 
 
@@ -67,17 +79,7 @@ Potions & Food: Instantly consume them.
 
 Weapons, Armor, Apparel: Instantly equip them.
 
-Home Key – Move any object your looking at freely.
- • Right Click – Confirm the new position.
- • Left Click – Cancel changes.
- (Perfect for precisely decorating your home.)
- 
-Delete Key – Open Modex, a cheat/debug menu that lets you:
- • Summon any NPC or item.
- • Teleport anywhere.
- (Useful for testing or troubleshooting.)
-
- F1 - Open up skse menu framework to tweak some mods including my own hail mod where you can play with hail physics in real time. 
+Sleep while sitting in a bench, chair ect
 
  You can bath by using a power. 
 
