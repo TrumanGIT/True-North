@@ -116,7 +116,7 @@ Dynamic world events — Thanks to SRC: Conquering of Skyrim, clearing a bandit 
 Persistent world changes — Solve the mystery of a burned-down house and watch it be rebuilt later. Clear a monster-infested mine and return to see the nearby town thriving again. 
 See the scars of the Civil War slowly heal over time. (and much more)
 
-[Mods I Created 🎨] — 
+[Mods I Created 🎨]
 
 Love is in the air ❤️ - NPCs naturally fall in love, marry, move in together, and hold real weddings you'll be invited to  attend if you’re friends; (can change in the mod file ini settings)
 
