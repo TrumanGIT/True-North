@@ -114,10 +114,15 @@ Seasons of Skyrim Integration — experience the world transform as winter arriv
 Dynamic world events — Thanks to SRC: Conquering of Skyrim, clearing a bandit fort means guards from the local hold will move in to reclaim it.
 
 Persistent world changes — Solve the mystery of a burned-down house and watch it be rebuilt later. Clear a monster-infested mine and return to see the nearby town thriving again. 
+See the scars of the Civil War slowly heal over time. (and much more)
 
-See the scars of the Civil War slowly heal over time. 
+[Mods I Created 🎨] — 
 
-Living relationships — Watch NPCs dynamically marry and move in together and be invited to their wedding if your current character happens to be friends! (Mod developed by yours truly.)
+Love is in the air ❤️ - NPCs naturally fall in love, marry, move in together, and hold real weddings you'll be invited to  attend if you’re friends; (can change in the mod file ini settings)
+
+Hail ❄️ — Experience intense weather where NPCs react naturally, running for cover as hailstorms roll in. (In game menu Press f1)
+
+Lightning Rod ⚡ — Npcs holding Metal weapons can get hit by liighting during storms. Risk increases at higher altitudes or in water. (Can change in MCM settings)
 
 [⚔️ Combat]
 
