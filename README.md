@@ -30,7 +30,7 @@ To change this, open the Select Your Season MCM menu — available for a limited
 
 True north starts with default vanilla controls configure to your liking. below are mod added keys that are good to know. 
 
-V Key = Power Attack key (you can also power attack by holding left mouse click like in vanilla, change in BFCO MCM menu)
+V Key = Power Attack key (you can also power attack by holding left mouse click like in vanilla, change in BFCO MCM in game)
 
 Caps Lock (left directional pad button for controllers) – Open the quick menu. 
 (change quick menu menu key by going to whereeverYouDownloadedThisModlist\True North\mods\Wheeler - Quick Action Wheel Of Skyrim\SKSE\Plugins\wheeler\Controls.ini)
@@ -39,9 +39,9 @@ SPACE Key - in addition to jumping, holding space allows your character to climb
 
 ↑ Arrow Key – Enable or disable the camera preset.
 
-↓ Arrow Key – Command all followers to stop or wait. (can change in nethors follower framework MCM settings in game) 
+↓ Arrow Key – Command all followers to stop or wait. (can change in nethors follower framework MCM in game) 
 
-Page Up – Interact with NPCs from a distance. (can change in Taunt / Remote Interactions MCM settings in game)
+Page Up – Interact with NPCs from a distance. (can change in Taunt / Remote Interactions MCM in game)
 
 3 Key – Taunt nearby NPCs to gain a combat buff (only works during combat).
 
