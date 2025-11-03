@@ -122,7 +122,7 @@ Love is in the air ❤️ - NPCs naturally fall in love, marry, move in together
 
 Hail ❄️ — Experience intense weather where NPCs react naturally, running for cover as hailstorms roll in. (In game menu Press f1)
 
-Lightning Rod ⚡ — Npcs holding Metal weapons can get hit by liighting during storms. Risk increases at higher altitudes or in water. (Can change in MCM settings)
+Lightning Rod ⚡ — Npcs holding Metal weapons can get hit by lighting during storms. Risk increases at higher altitudes or in water. (Can change in MCM settings)
 
 [⚔️ Combat]
 
