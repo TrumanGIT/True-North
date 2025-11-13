@@ -1,44 +1,48 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "True North",
-    "description": "Over 1,000 mods, combining 14+ years of the Skyrim modding communitys work into one cohesive, optimized experience. Fully voiced main character (can turn off), survival gameplay (can turn off), experience Skyrim transform as winter arrives, draping every hold in a stunning blanket of snow. Combat has been rebuilt from the ground up with modern mechanics, animations (BFCO) and AI. Every notable questline has been expanded to provide more role playing opportunities. Hours of new content. Highly immersive, reactive world that never drops below 60 FPS.",
+    "description": "Over 1,000 mods, combining 14\u002B years of the Skyrim modding communitys work into one cohesive, optimized experience. Fully voiced main character (can turn off), survival gameplay (can turn off), experience Skyrim transform as winter arrives, draping every hold in a stunning blanket of snow. Combat has been rebuilt from the ground up with modern mechanics, animations (BFCO) and AI. Every notable questline has been expanded to provide more role playing opportunities. Hours of new content. Highly immersive, reactive world that never drops below 60 FPS.",
     "author": "Truman",
     "maintainers": [
       "github/TrumanGIT"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "SFW",
       "Anniversary Edition",
       "Creation Club",
       "BFCO",
       "Roleplay",
-      "Vanilla+",
+      "Vanilla\u002B",
       "Immersive",
       "Seasons"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/TrumanGIT/True-North/refs/heads/main/True-North.png",
       "readme": "https://raw.githubusercontent.com/TrumanGIT/True-North/main/README.md",
-      "download": "https://authored-files.wabbajack.org/TrueNorth2.3.wabbajack_8128e2a9-7500-422c-aa91-892cf25c6a71",
+      "download": "https://authored-files.wabbajack.org/Default.wabbajack_43364c82-ecf1-441a-965c-c51f06978bb7",
       "machineURL": "TrueNorth",
       "discordURL": "https://discord.gg/pWHJJg9wWW",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/160623?tab=description"
     },
-      "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "mNjUknoz7mA=",
-      "Size": 1038148086,
+    "download_metadata": {
+      "Hash": "QKepAvacy+M=",
+      "Size": 1038254747,
       "NumberOfArchives": 1016,
       "SizeOfArchives": 66210167095,
-      "NumberOfInstalledFiles": 164637,
-      "SizeOfInstalledFiles": 97267893111
-  },
-    "version": "2.4"
+      "NumberOfInstalledFiles": 164649,
+      "SizeOfInstalledFiles": 97280875753,
+      "TotalSize": 163491042848
+    },
+    "version": "2.5",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-11-13T15:25:06.934183Z",
+    "repositoryName": ""
   }
 ]
