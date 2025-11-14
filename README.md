@@ -166,9 +166,9 @@ Link: [Penitus Occulatus] https://www.nexusmods.com/skyrimspecialedition/mods/21
 
 🌊 Sirenroot
 
-Summary: Join a team of divers exploring sunken ruins at the bottom of Lake Honrich. A dialogue-heavy quest with puzzles, platforming, and danger beneath the surface.
+Summary: Join a team of divers exploring sunken ruins at the bottom of Lake Honrich. with puzzles, platforming, and danger beneath the surface. (personal favourite, exceptional quality do no skip out on this) 
 
-How to Start: Speak to the expedition leader near Riften docks. Link: https://www.nexusmods.com/skyrimspecialedition/mods/70917
+How to Start: Begin the quest by speaking to Frissa Black-Briar at Elgrim’s Elixirs in Riften. Link: https://www.nexusmods.com/skyrimspecialedition/mods/70917
 
 ⚔️ Redeeming Fultheim
 
