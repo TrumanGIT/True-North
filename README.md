@@ -24,7 +24,7 @@ are added—more carriage drivers appear, and activating a road sign lets you fa
 Choose your character’s voice in the DBVO MCM menu (options available for both male and female voices).
 
 On starting a new game, the world begins at a random point in the seasonal cycle (it might be winter or summer).
-To change this, open MCM Recorder → Default Settings, delete the Select Your Season file (first one), then start the game and open the Select Your Season MCM menu — available briefly for new characters
+To change this, open MCM Recorder → Default Settings, "delete the 0023_$SS_ModName" file (first one), then start the game and open the Select Your Season MCM menu — available briefly for new characters
 
 [🎮CONTROLS]
 
