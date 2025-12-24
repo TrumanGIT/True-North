@@ -34,8 +34,6 @@ True north starts with default vanilla controls configure to your liking. below 
 
 V Key = Power Attack key (you can also power attack by holding left mouse click like in vanilla, change in BFCO MCM in game)
 
-X key = multi shot for bow users (requires the appropriate perk unlocked in the skill tree) 
-
 Caps Lock (left directional pad button for controllers) – Open the quick menu. 
 (change quick menu menu key by going to whereeverYouDownloadedThisModlist\True North\mods\Wheeler - Quick Action Wheel Of Skyrim\SKSE\Plugins\wheeler\Controls.ini)
 
