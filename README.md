@@ -14,7 +14,9 @@ ESPs cleaned with SSEEdit are fine and recommended.
 GOG version has not been tested and may not work.
 
 Widscreen, Controller and gamepad should work fine.
-(wide screens can also redownload "DBVO" and "Lore-Friendly Load Screen Compendium (16-9) (2K)" mods and select the ultra wide options if they wish)
+(wide screens can also redownload "DBVO" and "Lore-Friendly Load Screen Compendium (16-9) (2K)" mods and select the ultra wide options if 
+
+initial installation REQUIRES 175 Gigs. after which you can delete everything in the Downloads folder to bring the file size down to 115
 
 Recommended tweaks:
 
@@ -208,7 +210,7 @@ Silverhand now has a new set of gear and is no longer hostile to the player for 
 
 True North delivers a next-gen experience without compromising performance. On a system with an NVIDIA RTX 4060 8GB gpu and Intel i7-13700KF cpu, True North maintains 60 FPS across all areas. With experience as an SKSE developer, rest assured I’ve carefully optimized the modlist to run smooth even on older machines. 
 
-Should you still encounter fps drops, I recommend disabling Community shaders. Community shaders does the heavy lifting of the graphical improvements but comes at the cost of a sizeable performance impact. 
+Should you still encounter fps drops, try switching ti the performance profile in Mod Organize 2 by selecting the ID card icon in the task bar.
 
 [🏔️ Conclusion]
 
