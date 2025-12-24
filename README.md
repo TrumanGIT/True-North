@@ -32,6 +32,8 @@ True north starts with default vanilla controls configure to your liking. below 
 
 V Key = Power Attack key (you can also power attack by holding left mouse click like in vanilla, change in BFCO MCM in game)
 
+X key = multi shot for bow users (requires the appropriate perk unlocked in the skill tree) 
+
 Caps Lock (left directional pad button for controllers) – Open the quick menu. 
 (change quick menu menu key by going to whereeverYouDownloadedThisModlist\True North\mods\Wheeler - Quick Action Wheel Of Skyrim\SKSE\Plugins\wheeler\Controls.ini)
 
@@ -45,7 +47,7 @@ Page Up – Interact with NPCs from a distance. (can change in Taunt / Remote In
 
 3 Key – Taunt nearby NPCs to gain a combat buff (only works during combat).
 
-H key - call your horse 🐎 
+H key - call your horse 🐎 (change in the Simplest horses mod's ini file)
 
 B key = warm your hands (I press when standing near a fire to warm up) 
 
@@ -69,7 +71,7 @@ Pet Dog: Give friendly dogs the attention they deserve.
 
 Applaud Bards: Appreciate Skyrim’s performers. 
 
-Milk Cows: Moooo. 
+Milk Cows.
 
 Wave Hello to Children.
 
@@ -81,11 +83,9 @@ Weapons, Armor, Apparel: Instantly equip them.
 
 Sleep while sitting in a bench, chair ect
 
- You can bath by using a power. 
+ You can bath by using a power player by default. 
 
- you can also power attack a chest to open it. (how many times it takes to open a chest, depends on your weapon type and the strength of the lock) 
-
- You can give your followers horses to ride by using a power (you must own the horse before you can give it to your followers)
+ You can give your followers horses to ride by using a power given to the player by default (you must own the horse before you can give it to your followers)
  
 [True North]
 
