@@ -28,11 +28,11 @@ Choose your character’s voice in the DBVO MCM menu (options available for both
 On starting a new game, the world begins at a random point in the seasonal cycle (it might be winter or summer).
 To change this, open MCM Recorder → Default Settings, "delete the 0023_$SS_ModName" file (first one), then start the game and open the Select Your Season MCM menu — available briefly for new characters
 
+Default power attack key is hold right click. (change in BFCO mcm settigns)
+
 [🎮CONTROLS]
 
 True north starts with default vanilla controls configure to your liking. below are mod added keys that are good to know. 
-
-V Key = Power Attack key (you can also power attack by holding left mouse click like in vanilla, change in BFCO MCM in game)
 
 Caps Lock (left directional pad button for controllers) – Open the quick menu. 
 (change quick menu menu key by going to whereeverYouDownloadedThisModlist\True North\mods\Wheeler - Quick Action Wheel Of Skyrim\SKSE\Plugins\wheeler\Controls.ini)
