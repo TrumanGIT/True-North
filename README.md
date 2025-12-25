@@ -12,6 +12,7 @@ Your game folder cannot have e.g., SKSE, Engine Fixes, or ENB .dll files added t
 ESPs cleaned with SSEEdit are fine and recommended.
 
 Widscreen, Controller and gamepad are supported.
+(Select the Widescreen or Widescreen-performance profile in MO2)
 
 initial installation REQUIRES 175 GB. after which you can delete everything in the True North Downloads folder to bring the file size down to 115 GB
 
