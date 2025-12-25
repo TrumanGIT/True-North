@@ -5,13 +5,12 @@
 NO STOCK GAME FOLDER!
 What does that mean?: 
 
-You need the latest version of Skyrim Anniversary Edition (v1.70, Steam preferred) with all included Creation Club content.
+You need the latest v1.70 of Skyrim Anniversary Edition (GOG version has not been tested, I don't own a copy but should work fine) with all included Creation Club content.
 
 Clean install = no modifications to game files (e.g., SKSE, Engine Fixes, ENB).
 
 ESPs cleaned with SSEEdit are fine and recommended.
 
-GOG version has not been tested and may not work.
 
 Widscreen, Controller and gamepad should work fine.
 
