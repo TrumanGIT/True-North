@@ -5,14 +5,13 @@
 NO STOCK GAME FOLDER!
 What does that mean?: 
 
-You need the latest v1.70 of Skyrim Anniversary Edition (GOG version has not been tested, I don't own a copy but should work fine) with all included Creation Club content.
+You need the latest v1.70 of Skyrim Anniversary Edition and all Creation Club content that came with it. (GOG version has not been tested, I don't own a copy but should work fine) 
 
-Clean install = no modifications to game files (e.g., SKSE, Engine Fixes, ENB).
+Your game folder cannot have e.g., SKSE, Engine Fixes, or ENB .dll files added to it (remove them if you have them) 
 
 ESPs cleaned with SSEEdit are fine and recommended.
 
-
-Widscreen, Controller and gamepad should work fine.
+Widscreen, Controller and gamepad are supported.
 
 initial installation REQUIRES 175 GB. after which you can delete everything in the True North Downloads folder to bring the file size down to 115 GB
 
