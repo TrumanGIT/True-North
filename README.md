@@ -14,9 +14,8 @@ ESPs cleaned with SSEEdit are fine and recommended.
 GOG version has not been tested and may not work.
 
 Widscreen, Controller and gamepad should work fine.
-(wide screens can also redownload "DBVO" and "Lore-Friendly Load Screen Compendium (16-9) (2K)" mods and select the ultra wide options if 
 
-initial installation REQUIRES 175 Gigs. after which you can delete everything in the Downloads folder to bring the file size down to 115
+initial installation REQUIRES 175 GB. after which you can delete everything in the True North Downloads folder to bring the file size down to 115 GB
 
 Recommended tweaks:
 
@@ -28,13 +27,15 @@ Choose your character’s voice in the DBVO MCM menu (options available for both
 On starting a new game, the world begins at a random point in the seasonal cycle (it might be winter or summer).
 To change this, open MCM Recorder → Default Settings, "delete the 0023_$SS_ModName" file (first one), then start the game and open the Select Your Season MCM menu — available briefly for new characters
 
-Default power attack key is hold right click. (change in BFCO mcm settigns)
+
 
 [🎮CONTROLS]
 
-True north starts with default vanilla controls configure to your liking. below are mod added keys that are good to know. 
+True north starts with default vanilla controls configure to your liking. below are mod added keys that are good to know.
 
-Caps Lock (left directional pad button for controllers) – Open the quick menu. 
+Default power attack key is hold right click. (change in BFCO mcm settigns)
+
+Caps Lock (left directional pad button for controllers) – Open the "Wheeler" quick menu. 
 (change quick menu menu key by going to whereeverYouDownloadedThisModlist\True North\mods\Wheeler - Quick Action Wheel Of Skyrim\SKSE\Plugins\wheeler\Controls.ini)
 
 SPACE Key - in addition to jumping, holding space allows your character to climb anything within reach (out of combat only) 
