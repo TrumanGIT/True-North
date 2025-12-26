@@ -1,4 +1,7 @@
 # True-North
+[📈 Performance]
+
+On a system with an NVIDIA RTX 4060 8GB gpu and Intel i7-13700KF cpu, True North maintains 60 FPS across all areas. However on my laptop with a 4050 gets very low frames on the default mod organizer 2 profile outstide whiterun for example, but with the provided performance profile selected, the same laptop maintains 60fps.
 
 [👶 Instalation instructions for new players]
 
@@ -188,12 +191,6 @@ Lawless overhauls bandits across Skyrim and Solstheim, adding new archetypes, sc
 Vigilants have been given ALOT of love with brand new equipment and a mod added allowing you to rebuild the hall of the vigilants afer its destroyed after level 10. (https://www.nexusmods.com/skyrimspecialedition/mods/49346)
 
 Silverhand now has a new set of gear and is no longer hostile to the player for no reason. You can find out a bit of their story and might even become a honorary member. Silverhand will only become hostile if you join the Companions and become a werewolf.
-
-[📈 Performance]
-
-True North delivers a next-gen experience without compromising performance. On a system with an NVIDIA RTX 4060 8GB gpu and Intel i7-13700KF cpu, True North maintains 60 FPS across all areas. However on my laptop with a 4050 gets very low frames on the default mod organizer 2 profile, but when using the provided performance profile, the same laptop maitains 60fps. 
-
-Should you still encounter fps drops, try switching ti the performance profile in Mod Organize 2 by selecting the ID card icon in the task bar.
 
 [🏔️ Conclusion]
 
