@@ -5,11 +5,10 @@
 NO STOCK GAME FOLDER!
 What does that mean?: 
 
-You need the latest v1.70 of Skyrim Anniversary Edition and all Creation Club content that came with it. (GOG version has not been tested, I don't own a copy but should work fine) 
+You need the latest v1.70 of Skyrim Anniversary Edition and all Creation Club content that came with it. 
+(GOG version has not been tested, I don't own a copy but should work fine) 
 
-Your game folder cannot have e.g., SKSE, Engine Fixes, or ENB .dll files added to it (remove them if you have them) 
-
-ESPs cleaned with SSEEdit are fine and recommended.
+Your game folder cannot have SKSE, Engine Fixes, or ENB .dll files added to it (remove them if you have them) 
 
 Widscreen, Controller and gamepad are supported.
 (Select the Widescreen or Widescreen-performance profile in MO2)
@@ -25,14 +24,13 @@ are added—more carriage drivers appear, and activating a road sign lets you fa
 
 Choose your character’s voice in the DBVO MCM menu (options available for both male and female voices).
 
-On starting a new game, the world begins at a random point in the seasonal cycle (it might be winter or summer).
-To change this, open MCM Recorder → Default Settings, "delete the 0023_$SS_ModName" file (first one), then start the game and open the Select Your Season MCM menu — available briefly for new characters
-
+On starting a new game, the world begins at a random point in the seasonal cycle (it might be winter, summer,  fall).
+To change this, open MCM Recorder → Default Settings, "delete the 0023_$SS_ModName" file (1st file), then start the game and open the Select Your Season MCM menu — available briefly for new characters
 
 
 [🎮CONTROLS]
 
-True north starts with default vanilla controls configure to your liking. below are mod added keys that are good to know.
+True north starts with default vanilla controls, configure to your liking. below are mod added keys that are good to know.
 
 Default power attack key is hold left click. (change in BFCO mcm settigns)
 
@@ -49,7 +47,9 @@ Page Up – Interact with NPCs from a distance. (can change in Taunt / Remote In
 
 3 Key – Taunt nearby NPCs to gain a combat buff (only works during combat).
 
-H key - call your horse 🐎 (change in the Simplest horses mod's ini file)
+H key - call your horse / open horse inventory 🐎 (change in the Simplest horses mod's ini file)
+
+You can give your followers horses to ride by using a power given to the player by default (you must own the horse before you can give it to your followers)
 
 B key = warm your hands (I press when standing near a fire to warm up) 
 
@@ -65,29 +65,12 @@ Delete Key – Open Modex, a cheat/debug menu that lets you:
 
  F1 - Open up skse menu framework to tweak some mods including my own hail mod where you can play with hail physics in real time. 
 
- Shift + Activate to do ALL the actions below
+Shift + Activate to do ALL the actions below:
 
-Pet Horse: Show affection to your loyal steed. 
-
-Pet Dog: Give friendly dogs the attention they deserve. 
-
-Applaud Bards: Appreciate Skyrim’s performers. 
-
-Milk Cows.
-
-Wave Hello to Children.
-
-Books & Notes: Instantly read them.
-
-Potions & Food: Instantly consume them.
-
-Weapons, Armor, Apparel: Instantly equip them.
-
-Sleep while sitting in a bench, chair ect
+ Horses, dogs Applaud Bards, Milk Cows, Wave Hello to Children, read books without having to pick them up,
+Instantly use / equip / read items without having to pick them up into your inventory first, Sleep while sitting in a bench, chair ect.
 
  You can bath by using a power player by default. 
-
- You can give your followers horses to ride by using a power given to the player by default (you must own the horse before you can give it to your followers)
  
 [True North]
 
