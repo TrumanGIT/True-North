@@ -32,7 +32,7 @@ To change this, open MCM Recorder → Default Settings, "delete the 0023_$SS_Mod
 
 True north starts with default vanilla controls, configure to your liking. below are mod added keys that are good to know.
 
-Default power attack key is hold left click. (change in BFCO mcm settigns)
+Default power attack key is hold left click. (change in BFCO mcm settings)
 
 Caps Lock (left directional pad button for controllers) – Open the "Wheeler" quick menu. 
 (change quick menu menu key by going to whereeverYouDownloadedThisModlist\True North\mods\Wheeler - Quick Action Wheel Of Skyrim\SKSE\Plugins\wheeler\Controls.ini)
