@@ -191,7 +191,7 @@ Silverhand now has a new set of gear and is no longer hostile to the player for 
 
 [📈 Performance]
 
-True North delivers a next-gen experience without compromising performance. On a system with an NVIDIA RTX 4060 8GB gpu and Intel i7-13700KF cpu, True North maintains 60 FPS across all areas. With experience as an SKSE developer, rest assured I’ve carefully optimized the modlist to run smooth even on older machines. 
+True North delivers a next-gen experience without compromising performance. On a system with an NVIDIA RTX 4060 8GB gpu and Intel i7-13700KF cpu, True North maintains 60 FPS across all areas. However on my laptop with a 4050 gets very low frames on the default mod organizer 2 profile, but when using the provided performance profile, the same laptop maitains 60fps. 
 
 Should you still encounter fps drops, try switching ti the performance profile in Mod Organize 2 by selecting the ID card icon in the task bar.
 
