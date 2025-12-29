@@ -130,20 +130,20 @@ NPC Spell Variance — reworks NPC spell logic so mages use their full arsenal, 
 
 Every notable questline has been overhauled to provide more choice and freedom but here are some new quests/content you might want to check out:
 
-☠️ Olenveld
+☀️ Midnight Sun
+Venture into the Boreal Valley and overcome new adversaries in this multi-hour adventure! This new lands mod was hand crafted by Kitty Tail one of the most talented mod authors of all time. You can start this elden ring inspired by going to the morthal inn and reading the book on the counter. (I've also added true north exclusive dialogue to the inn keeper so you wont miss the book!) 
 
+☠️ Olenveld
 Summary: Explore the lore-rich island of Olenveld — a full DLC-sized new land with unique quests and an island recapturing system.
 How to Start: Travel to Septimus Signus’s Outpost, head behind the glacier until you find a cabin, then pick up the note inside.
 Link: https://www.nexusmods.com/skyrimspecialedition/mods/133579
 
 🌙 Sleepwalking Into A Nightmare
-
 Summary: A new Daedric quest where you track down a missing woman and explore her haunting nightmares to free her from Vaermina.
 
 How to Start: Speak with Ralforn in green-tip cabin, a new location north-east of Ivarstead, who will ask you for help to find his wife, Gretska. Link: https://www.nexusmods.com/skyrimspecialedition/mods/141047
 
 🗺️ Penitus Occulatus
-
 Summary: Join the Penitus Oculatus and destroy the Dark Brotherhood — or save them, keeping NPCs alive that previously couldn’t survive.
 
 How to Start: After you complete the quest "Destroy the Dark Brotherhood!", you can join the Penitus Oculatus by speaking to Commander Maro.
@@ -153,19 +153,17 @@ Notes: Destory the dark brotherhood quest itself has also been greatly expanded
 Link: [Penitus Occulatus] https://www.nexusmods.com/skyrimspecialedition/mods/21061 [Destroy The Dark Brotherhood] https://www.nexusmods.com/skyrimspecialedition/mods/118229 
 
 🌊 Sirenroot
-
 Summary: Join a team of divers exploring sunken ruins at the bottom of Lake Honrich. with puzzles, platforming, and danger beneath the surface. (personal favourite, exceptional quality do no skip out on this) 
 
 How to Start: Begin the quest by speaking to Frissa Black-Briar at Elgrim’s Elixirs in Riften. Link: https://www.nexusmods.com/skyrimspecialedition/mods/70917
 
-⚔️ Redeeming Fultheim
+⚔️ Redeeming Fultheim / The Parthunax Expansion
 
 Summary: Help Fultheim the Fearless redeem himself and rejoin the Blades. Two possible endings
 
 How to Start: A new dialogue option has been added to Fultheim to point out the fact that he has an Akaviri sword. Selecting that dialogue topic will start the new quest, "A Forgotten Blade". The topic will only appear after you progress in the Main Story to the point where the Blades have moved into Sky Haven Temple (i.e. complete the quest "Alduin's Wall"). Link: https://www.nexusmods.com/skyrimspecialedition/mods/136788
 
 [👥 NPCs]
-
 NPCs now react to danger and the weather, and respond dynamically to events. Strangers won’t automatically greet you, and with my mod Love Is In The Air, NPCs can meet, fall in love, marry, move in together, and even invite you to their weddings if your friends — adding real social life and emotion to Skyrim.
 
 Visual overhauls bring every NPC to life with a new look thanks to a selection of appearence overhaul mods handpicked from the most talented creators, while preserving the rugged, look appropriate for those living in skyrims harsh climate.
