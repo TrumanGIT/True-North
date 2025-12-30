@@ -1,7 +1,9 @@
 # True-North
 [📈 Performance]
 
-On a system with an NVIDIA RTX 4060 8GB gpu and Intel i7-13700KF cpu, True North maintains 60 FPS across all areas. However on my laptop with a 4050 gets very low frames outside whiterun for example, BUT with the provided performance profile selected in mod organizer 2, the same laptop maintains 60fps.
+On a desktop system with an NVIDIA RTX 4060 (8 GB) and an Intel i7-13700KF, True North maintains a stable 60 FPS across all areas.
+
+On a laptop equipped with an RTX 4050, performance drops can occur in demanding locations such as outside Whiterun. However, when the included Performance profile is selected in Mod Orgnaizer 2, the same laptop maintains a consistent 60 FPS throughout the game.
 
 [👶 Instalation instructions for new players]
 
