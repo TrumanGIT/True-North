@@ -18,14 +18,14 @@ Your game folder cannot have SKSE, Engine Fixes, or ENB .dll files added to it (
 Widscreen, Controller and gamepad are supported.
 (Select the Widescreen or Widescreen-performance profile in Mod Orgnaizer 2)
 
-initial installation REQUIRES 175 GB. after which you can delete everything in the True North Downloads folder to bring the file size down to 115 GB
+initial installation REQUIRES 175 GB. after which you can delete everything in the True North Downloads folder to bring the file size down to 111 GB
 
 After installation, open the modlist, launch Mod Organizer 2, select SKSE from the Run dropdown, and click Run.
 
 Recommended tweaks:
 
-Survival Mode is enabled by default, which also disables fast travel. To compensate, Carriage Ferry Travel Overhaul and Road Signs Fast Travel 
-are added—more carriage drivers appear, and activating a road sign lets you fast travel to any town listed on it. (disable survival mode improved mod or visit the main menu game settings to turn off survival mode)
+Fast travel is disabled by default To compensate, Carriage Ferry Travel Overhaul and Road Signs Fast Travel 
+are added—more carriage drivers appear, and activating a road sign lets you fast travel to any town listed on it. (you can enable fast travel in the road sign fast travel MCM menu)
 
 Choose your character’s voice in the DBVO MCM menu (options available for both male and female voices).
 
