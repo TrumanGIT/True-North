@@ -24,7 +24,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/TrumanGIT/True-North/refs/heads/main/True-North.png",
+      "image": "https://raw.githubusercontent.com/TrumanGIT/True-North/main/TrueNorth2.png",
       "readme": "https://raw.githubusercontent.com/TrumanGIT/True-North/main/README.md",
       "download": "https://authored-files.wabbajack.org/Default.wabbajack_5135ba87-08cd-437e-b8cd-24b3c5db3d47",
       "machineURL": "TrueNorth",
@@ -47,3 +47,4 @@
   }
 
 ]
+
