@@ -18,7 +18,7 @@ Your game folder cannot have SKSE, Engine Fixes, or ENB .dll files added to it (
 Widscreen, Controller and gamepad are supported.
 (Select the Widescreen or Widescreen-performance profile in Mod Orgnaizer 2)
 
-initial installation REQUIRES 175 GB. after which you can delete everything in the True North Downloads folder to bring the file size down to 111 GB
+initial installation REQUIRES 175 GB. after which you can delete everything in the True North Downloads folder to bring the file size down to 112 GB
 
 After installation, open the modlist, launch Mod Organizer 2, select SKSE from the Run dropdown, and click Run.
 
