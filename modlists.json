@@ -1,7 +1,7 @@
 [
   {
     "title": "True North",
-    "description": "Over 1,000 mods, combining 14\u002B years of the Skyrim modding communitys work into one cohesive, optimized experience. Fully voiced main character (can turn off), survival gameplay (can turn off), Watch as the lanscapes transform based on the seasons (My favourite being winter which drapes every hold in a blanket of snow). Combat has been rebuilt from the ground up with modern mechanics, animations (BFCO) and AI. Every notable questline has been expanded to provide more role playing opportunities. Hours of new content. Highly immersive, reactive world that never drops below 60 FPS (minimum requirement of 6 GB of Vram).",
+    "description": "Over 1,000 mods, combining 14\u002B years of the Skyrim modding communitys work into one cohesive, optimized experience. Fully voiced main character (can turn off), survival gameplay (can turn off), watch the landscapes transform as the seasons change (My favourite is winter which drapes every hold in a blanket of snow). Combat has been rebuilt from the ground up with modern mechanics, animations (BFCO) and AI. Every notable questline has been expanded to provide more role playing opportunities. Hours of new content. Highly immersive, reactive world that never drops below 60 FPS (minimum requirement of 6 GB of Vram).",
     "author": "Truman",
     "maintainers": [
       "github/TrumanGIT"
@@ -47,5 +47,6 @@
   }
 
 ]
+
 
 
