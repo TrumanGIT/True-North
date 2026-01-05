@@ -13,7 +13,7 @@ What does that mean?:
 You need the latest v1.70 of Skyrim Anniversary Edition and all Creation Club content that came with it. 
 (GOG version has not been tested, I don't own a copy but should work fine) 
 
-Your game folder cannot have SKSE, Engine Fixes, or ENB .dll files added to it (remove them if you have them) 
+Your game folder cannot have SKSE, Engine Fixes, or ENB '.dll' files added to it. (Clean Game Folder)
 
 Widscreen, Controller and gamepad are supported.
 (Select the Widescreen or Widescreen-performance profile in Mod Orgnaizer 2)
