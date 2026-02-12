@@ -181,7 +181,7 @@ My favourite follower creater Craftian's followers can also be found in this lis
 
 Celestine - A devout follower of stendarr found in front of the Jade Palace.
 
-Nessa - A thief whos lost her arm during her last heist. She can be found in Rorikstead inn
+Tilael - A Sea Elf Follower Created by me available after completing the Sirenroot Quest you can start by entering the alchemist shop in riften. She comes with a in game skse menu you can use to level her stats and unlocked new perks and spells for her.
 
 Light and Shade - a blind travelling mercenary with a charming curiosity. She can be found in Whiterun Banneredmare inn. 
 
