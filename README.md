@@ -1,7 +1,7 @@
 # True-North
 [📈 Performance]
 
-On a desktop system with an NVIDIA RTX 4060 (8 GB) and an Intel i7-13700KF, True North maintains a stable 60 FPS across all areas.
+On a desktop system with an NVIDIA RTX 4060 (8 GB) and an Intel i7-13700KF, True North's Default profile maintains a stable 60 FPS across all areas.
 
 On a laptop equipped with an RTX 4050, performance drops can occur in demanding locations such as outside Whiterun. However, when the included Performance profile is selected in Mod Orgnaizer 2, the same laptop maintains a consistent 60 FPS throughout the game.
 
@@ -70,9 +70,9 @@ Delete Key – Open Modex, a cheat/debug menu that lets you:
 
  F1 - Open up skse menu framework to tweak some mods including my own hail mod where you can play with hail physics in real time. 
 
-Shift + Activate to do ALL the actions below:
+Shift + E to do ALL the actions below:
 
- Horses, dogs Applaud Bards, Milk Cows, Wave Hello to Children, read books without having to pick them up,
+ Pet Horses, dogs, cats, Applaud Bards, Milk Cows, Wave Hello to Children, read books without having to pick them up,
 Instantly use / equip / read items without having to pick them up into your inventory first, Sleep while sitting in a bench, chair ect.
 
  You can bath by using a power player by default. 
@@ -108,11 +108,16 @@ See the scars of the Civil War slowly heal over time. (and much more)
 
 [Mods I Created 🎨]
 
+Tilael - A Sea Elf Follower available after completing the Sirenroot Quest you can start by entering the alchemist shop in riften. She comes with a in game skse menu you can use to level her stats and unlocked new perks and spells for her. (https://www.nexusmods.com/skyrimspecialedition/mods/171582)
+
 Love is in the air ❤️ - NPCs naturally fall in love, marry, move in together, and hold real weddings you'll be invited to  attend if you’re friends; (can change in the mod file ini settings)
+(https://www.nexusmods.com/skyrimspecialedition/mods/155836?tab=files)
 
 Hail ❄️ — Experience intense weather where NPCs react naturally, running for cover as hailstorms roll in. (In game menu Press f1)
+(https://www.nexusmods.com/skyrimspecialedition/mods/150258)
 
 Lightning Rod ⚡ — Npcs holding Metal weapons can get hit by lighting during storms. Risk increases at higher altitudes or in water. (Can change in MCM settings)
+(https://www.nexusmods.com/skyrimspecialedition/mods/149145)
 
 [⚔️ Combat]
 
