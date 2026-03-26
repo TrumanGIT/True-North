@@ -68,7 +68,7 @@ Delete Key – Open Modex, a cheat/debug menu that lets you:
  • Teleport anywhere.
  (Useful for testing or troubleshooting.)
 
- F1 - Open up skse menu framework to tweak some mods including my own hail mod where you can play with hail physics in real time. 
+ F1 - Open up skse menu framework to tweak some mods including my own relight mod hail mod where you can edit lights and hail physics in real time. 
 
 Shift + E to do ALL the actions below:
 
@@ -108,7 +108,7 @@ See the scars of the Civil War slowly heal over time. (and much more)
 
 [Mods I Created 🎨]
 
-RE::Light 💡- True north comes with its own lighting mod created by me. RE::Light is a Fully JSON-based configurable lighting framework, Lights can be edited in real time using the in-game menu.(And saved so your changes will remain), Community Shaders (CS) Lighting Support (In game menu allows for changing inverse squared lighting settings aswell)
+RE::Light 💡- True north comes with its own lighting mod created by me. RE::Light is a Fully JSON-based configurable lighting framework, Lights can be edited in real time using the in-game menu by Pressing F1.(And saved so your changes will remain), Community Shaders (CS) Lighting Support (In game menu allows for changing inverse squared lighting settings aswell)
 
 Tilael - A Sea Elf Follower available after completing the Sirenroot Quest you can start by entering the alchemist shop in riften. She comes with a in game skse menu you can use to level her stats and unlocked new perks and spells for her. (https://www.nexusmods.com/skyrimspecialedition/mods/171582)
 
