@@ -108,6 +108,8 @@ See the scars of the Civil War slowly heal over time. (and much more)
 
 [Mods I Created 🎨]
 
+RE::Light 💡- True north comes with its own lighting mod created by me. RE::Light is a Fully JSON-based configurable lighting framework, Lights can be edited in real time using the in-game menu.(And saved so your changes will remain), Community Shaders (CS) Lighting Support (In game menu allows for changing inverse squared lighting settings aswell)
+
 Tilael - A Sea Elf Follower available after completing the Sirenroot Quest you can start by entering the alchemist shop in riften. She comes with a in game skse menu you can use to level her stats and unlocked new perks and spells for her. (https://www.nexusmods.com/skyrimspecialedition/mods/171582)
 
 Love is in the air ❤️ - NPCs naturally fall in love, marry, move in together, and hold real weddings you'll be invited to  attend if you’re friends; (can change in the mod file ini settings)
