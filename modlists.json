@@ -30,7 +30,12 @@
       "machineURL": "TrueNorth",
       "discordURL": "https://discord.gg/pWHJJg9wWW",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/160623?tab=description",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "433894",
+        "slug": "kgvml9",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "5yVev2P+Wps=",
