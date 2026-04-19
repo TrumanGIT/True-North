@@ -54,8 +54,6 @@ Page Up – Interact with NPCs from a distance. (can change in Taunt / Remote In
 
 H key - call your horse / open horse inventory 🐎 (change in the Simplest horses mod's ini file)
 
-You can give your followers horses to ride by using a power given to the player by default (you must own the horse before you can give it to your followers)
-
 B key = warm your hands (I press when standing near a fire to warm up) 
 
 Home Key – Move any object your looking at freely.
