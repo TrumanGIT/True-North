@@ -15,7 +15,7 @@ You need the latest v1.70 of Skyrim Anniversary Edition and all Creation Club co
 
 Your game folder cannot have SKSE, Engine Fixes, or ENB '.dll' files added to it. (Clean Game Folder)
 
-Widscreen, Controller and gamepad are supported.
+Widscreen is supported
 (Select the Widescreen or Widescreen-performance profile in Mod Orgnaizer 2)
 
 Initial installation REQUIRES 190 GB. after which you can delete everything in the True North Downloads folder to bring the file size down to 115 GB
