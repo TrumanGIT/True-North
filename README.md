@@ -1,11 +1,11 @@
 # True-North
-[📈 Performance]
+**[Performance]**
 
 On a desktop system with an NVIDIA RTX 4060 (8 GB) and an Intel i7-13700KF, True North's Default profile maintains a stable 60 FPS across all areas.
 
 On a laptop equipped with an RTX 4050, performance drops can occur in demanding locations such as outside Whiterun. However, when the included Performance profile is selected in Mod Orgnaizer 2, the same laptop maintains a consistent 60 FPS throughout the game.
 
-[👶 Instalation instructions for new players]
+**[Installation instructions for new players]**
 
 NO STOCK GAME FOLDER!
 What does that mean?: 
@@ -15,25 +15,22 @@ You need the latest v1.70 of Skyrim Anniversary Edition and all Creation Club co
 
 Your game folder cannot have SKSE, Engine Fixes, or ENB '.dll' files added to it. (Clean Game Folder)
 
-Widscreen is supported
+**Widscreen is supported**
 (Select the Widescreen or Widescreen-performance profile in Mod Orgnaizer 2)
 
-Initial installation REQUIRES 190 GB. after which you can delete everything in the True North Downloads folder to bring the file size down to 115 GB
+Initial installation REQUIRES 196 GB. after which you can delete everything in the True North Downloads folder to bring the file size down to 116 GB
 
-After installation, open the modlist, launch Mod Organizer 2, select SKSE from the Run dropdown, and click Run.
+After installation, open the modlist, launch Mod Organizer 2, select "True North"
 
-Recommended tweaks:
+**Recommended tweaks:**
 
 Fast travel is disabled by default To compensate, Carriage Ferry Travel Overhaul and Road Signs Fast Travel 
 are added—more carriage drivers appear, and activating a road sign lets you fast travel to any town listed on it. (you can enable fast travel in the road sign fast travel MCM menu)
 
-Choose your character’s voice in the DBVO MCM menu (options available for both male and female voices).
-
 On starting a new game, the world begins at a random point in the seasonal cycle (it might be winter, summer,  fall).
 To change this, open MCM Recorder → Default Settings, "delete the 0023_$SS_ModName" file (1st file), then start the game and open the Select Your Season MCM menu — available briefly for new characters
 
-
-[🎮CONTROLS]
+**[CONTROLS]**
 
 True north starts with default vanilla controls, configure to your liking. below are mod added keys that are good to know.
 
@@ -74,20 +71,8 @@ Shift + E to do ALL the actions below:
 Instantly use / equip / read items without having to pick them up into your inventory first, Sleep while sitting in a bench, chair ect.
 
  You can bath by using a power player by default. 
- 
-[True North]
 
-True North is my vision of Skyrim —a wabbajack list of 1000+ mods. A celebration of the Skyrim modding community’s incredible work over the last 14+ years.
-
-[⚒️ Modding, Simplified]
-
-Modding Skyrim today is no easy task. To get the best possible experience, you need to master countless tools — xEdit, DynDOLOD, xLODGen, Grass Cache, Creation Kit, Pandora, Synthesis, Wrye Bash, Bodyslide (the list goes on and on). Let me handle all of that for you.
-
-The list automatically configures itself — no manual setup is needed in game.
-
-[🗺️ The Vision]
-
-True North stays faithful to Skyrim’s original design while enhancing it in every meaningful way.
+**[The Vision]**
 
 Roleplaying is the heart of the experience. Alternate start lets you choose your own beggining and every notable questline has been altered to provide more roleplaying opportunitys. 
 
@@ -95,7 +80,7 @@ Experience your character fully voiced — with both male and female voice optio
 
 Survival is fully integrated — not as a punishment, but as a way to slow down, breathe, and truly live in the handcrafted world. (Turn off survival by disabling survival mode improved if surival is not your thing) 
 
-[🌍 A Living, Breathing Skyrim]
+**[Living, Breathing Skyrim]**
 
 Seasons of Skyrim Integration — experience the world transform as winter arrives, draping the all holds in a stunning blanket of snow. 
 
@@ -104,9 +89,10 @@ Dynamic world events — Thanks to SRC: Conquering of Skyrim, clearing a bandit 
 Persistent world changes — Solve the mystery of a burned-down house and watch it be rebuilt later. Clear a monster-infested mine and return to see the nearby town thriving again. 
 See the scars of the Civil War slowly heal over time. (and much more)
 
-[Mods I Created 🎨]
+**[Mods I Created ]**
 
 RE::Light 💡- True north comes with its own lighting mod created by me. RE::Light is a Fully JSON-based configurable lighting framework, Lights can be edited in real time using the in-game menu by Pressing F1.(And saved so your changes will remain), Community Shaders (CS) Lighting Support (In game menu allows for changing inverse squared lighting settings aswell)
+(https://www.nexusmods.com/skyrimspecialedition/mods/167186)
 
 Tilael 💧 - A Sea Elf Follower available after completing the Sirenroot Quest you can start by entering the alchemist shop in riften. She comes with a in game skse menu you can use to level her stats and unlocked new perks and spells for her. (https://www.nexusmods.com/skyrimspecialedition/mods/171582)
 
@@ -119,21 +105,19 @@ Hail ❄️ — Experience intense weather where NPCs react naturally, running f
 Lightning Rod ⚡ — Npcs holding Metal weapons can get hit by lighting during storms. Risk increases at higher altitudes or in water. (Can change in MCM settings)
 (https://www.nexusmods.com/skyrimspecialedition/mods/149145)
 
-[⚔️ Combat]
+**[Combat]**
 
 Vanilla Skyrim’s third-person combat suffers from “ice skating,” with attacks feeling weightless. True North replaces this with a grounded step & swing system using the latest and greatest combat framework BFCO. dodging and timed blocking has been added and First-person combat has also been fully overhauled with the same attention to detail. 
 
-Combat is further elevated by four key combat overhauls:
-
 Precision — brings true physics-based melee, realistic collisions, hit reactions, and weapon feedback.
 
-Dismemberment Framework — adds real-time dismemberment, adaptive sound effects, and blood physics for visceral realism.
+**Dismemberment Framework** — cut arms and legs and body parts off.
 
-Sanguine Symphony — enhances combat with with brutal visual effects like adaptive blood splatters, detailed decals, HD wound textures, and custom sound design.
+**Sanguine Symphony** — realist blood sprays, sound and kill fx.
 
-NPC Spell Variance — reworks NPC spell logic so mages use their full arsenal, including support, utility, and rune spells. No more mindless fireball spam — enemies now think, adapt, and fight with real strategy.
+**NPC Spell Variance** — npcs can use all spells they know.
 
-[📜 Quests]
+**[Quests]**
 
 Every notable questline has been overhauled to provide more choice and freedom but here are some new quests/content you might want to check out:
 
@@ -141,66 +125,55 @@ Every notable questline has been overhauled to provide more choice and freedom b
 Venture into the Boreal Valley and overcome new adversaries in this multi-hour adventure! This new lands mod was hand crafted by Kitty Tail one of the most talented mod authors of all time. You can start this elden ring inspired by going to the morthal inn and reading the book on the counter. (I've also added true north exclusive dialogue to the inn keeper so you wont miss the book!) 
 
 ☠️ Olenveld
-Summary: Explore the lore-rich island of Olenveld — a full DLC-sized new land with unique quests and an island recapturing system.
+Summary: Explore theisland of Olenveld — a full DLC-sized new land with new quests and an save the island from a necromancer.
 How to Start: Travel to Septimus Signus’s Outpost, head behind the glacier until you find a cabin, then pick up the note inside.
 Link: https://www.nexusmods.com/skyrimspecialedition/mods/133579
 
 🌙 Sleepwalking Into A Nightmare
 Summary: A new Daedric quest where you track down a missing woman and explore her haunting nightmares to free her from Vaermina.
-
 How to Start: Speak with Ralforn in green-tip cabin, a new location north-east of Ivarstead, who will ask you for help to find his wife, Gretska. Link: https://www.nexusmods.com/skyrimspecialedition/mods/141047
 
 🗺️ Penitus Occulatus
-Summary: Join the Penitus Oculatus and destroy the Dark Brotherhood — or save them, keeping NPCs alive that previously couldn’t survive.
-
-How to Start: After you complete the quest "Destroy the Dark Brotherhood!", you can join the Penitus Oculatus by speaking to Commander Maro.
-
-Notes: Destory the dark brotherhood quest itself has also been greatly expanded
+**Summary:** Join the Penitus Oculatus and destroy the Dark Brotherhood — or save them, keeping NPCs alive that previously couldn’t survive.
+**How to Start:** After you complete the quest "Destroy the Dark Brotherhood!", you can join the Penitus Oculatus by speaking to Commander Maro.
+**Notes:** Destory the dark brotherhood quest itself has also been greatly expanded
 
 Link: [Penitus Occulatus] https://www.nexusmods.com/skyrimspecialedition/mods/21061 [Destroy The Dark Brotherhood] https://www.nexusmods.com/skyrimspecialedition/mods/118229 
 
-🌊 Sirenroot
-Summary: Join a team of divers exploring sunken ruins at the bottom of Lake Honrich. with puzzles, platforming, and danger beneath the surface. (personal favourite, exceptional quality do no skip out on this) 
-
-How to Start: Begin the quest by speaking to Frissa Black-Briar at Elgrim’s Elixirs in Riften. Link: https://www.nexusmods.com/skyrimspecialedition/mods/70917
+🌊 **Sirenroot**
+**Summary:** Join a team of divers exploring sunken ruins at the bottom of Lake Honrich. with puzzles, platforming, and danger beneath the surface. (personal favourite, exceptional quality do no skip out on this) 
+**How to Start:** Begin the quest by speaking to Frissa Black-Briar at Elgrim’s Elixirs in Riften.
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/70917
 
 ⚔️ Redeeming Fultheim / The Parthunax Expansion
 
-Summary: Help Fultheim the Fearless redeem himself and rejoin the Blades. Two possible endings
+**Summary:** Help Fultheim the Fearless redeem himself and rejoin the Blades. Two possible endings
+**How to Start:** A new dialogue option has been added to Fultheim to point out the fact that he has an Akaviri sword. Selecting that dialogue topic will start the new quest, "A Forgotten Blade". The topic will only appear after you progress in the Main Story to the point where the Blades have moved into Sky Haven Temple (i.e. complete the quest "Alduin's Wall"). 
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/136788
 
-How to Start: A new dialogue option has been added to Fultheim to point out the fact that he has an Akaviri sword. Selecting that dialogue topic will start the new quest, "A Forgotten Blade". The topic will only appear after you progress in the Main Story to the point where the Blades have moved into Sky Haven Temple (i.e. complete the quest "Alduin's Wall"). Link: https://www.nexusmods.com/skyrimspecialedition/mods/136788
+[NPCs]
+NPCs now react to danger and the weather, fall in love, marry, move in together, and even invite you to their weddings if your friends. They also wont automatically greet you 
 
-[👥 NPCs]
-NPCs now react to danger and the weather, and respond dynamically to events. Strangers won’t automatically greet you, and with my mod Love Is In The Air, NPCs can meet, fall in love, marry, move in together, and even invite you to their weddings if your friends — adding real social life and emotion to Skyrim.
+Npcs have been visually overhauled making them better without making them look like super models. 
 
-Visual overhauls bring every NPC to life with a new look thanks to a selection of appearence overhaul mods handpicked from the most talented creators, while preserving the rugged, look appropriate for those living in skyrims harsh climate.
-
-Most vanilla npc followers have been greatly expanded with the "follower dialogue expansion" series to ensure using your old favourite followers feels fresh again. 
+Most vanilla npc followers have been expanded with the "follower dialogue expansion" series to ensure using your old favourite followers have new things to do and say.
 
 My favourite follower creater Craftian's followers can also be found in this list:
 
-Celestine - A devout follower of stendarr found in front of the Jade Palace.
+**Celestine** - A devout follower of stendarr found in front of the Jade Palace.
 
-Tilael - A Sea Elf Follower Created by me available after completing the Sirenroot Quest you can start by entering the alchemist shop in riften. She comes with a in game skse menu you can use to level her stats and unlocked new perks and spells for her.
+**Light and Shade** - a blind travelling mercenary with a charming curiosity. She can be found in Whiterun Banneredmare inn. 
 
-Light and Shade - a blind travelling mercenary with a charming curiosity. She can be found in Whiterun Banneredmare inn. 
+**Tilael** - A Sea Elf Follower Created by me available after completing the Sirenroot Quest you can start by entering the alchemist shop in riften. She comes with a in game skse menu you can use to level her stats and unlocked new perks and spells for her. (my mod)
 
-Every faction has been reimagined:
+**Every faction has been reimagined:**
 
-Madmen transforms the Forsworn, giving them a unique identity, shamanistic powers, and even rare werewolf transformations.
+**Madmen** transforms the Forsworn, giving them a unique identity, shamanistic powers, and even rare werewolf transformations.
 
-The Restless Dead breathes new life into Skyrim’s undead, introducing diverse draugr, skeletons, and ghosts with unique tactics and visual variety. Every dungeon populated by the undead now offers new boss encounters.
+**The Restless Dead** breathes new life into Skyrim’s undead, introducing diverse draugr, skeletons, and ghosts with unique tactics and visual variety. Every dungeon populated by the undead now offers new boss encounters.
 
-Lawless overhauls bandits across Skyrim and Solstheim, adding new archetypes, scalable levels, and varied combat styles — ensuring every bandit encounter is challenging and fresh. 
+**Lawless** overhauls bandits across Skyrim and Solstheim, adding new archetypes, scalable levels, and varied combat styles — ensuring every bandit encounter is challenging and fresh. 
 
-Vigilants have been given ALOT of love with brand new equipment and a mod added allowing you to rebuild the hall of the vigilants afer its destroyed after level 10. (https://www.nexusmods.com/skyrimspecialedition/mods/49346)
+**Vigilants** have been given ALOT of love with brand new equipment and a mod added allowing you to rebuild the hall of the vigilants afer its destroyed after level 10. (https://www.nexusmods.com/skyrimspecialedition/mods/49346)
 
-Silverhand now has a new set of gear and is no longer hostile to the player for no reason. You can find out a bit of their story and might even become a honorary member. Silverhand will only become hostile if you join the Companions and become a werewolf.
-
-[🏔️ Conclusion]
-
-Im from northern Canada and skyrim reminds me of home. The northern lights especiialy which I can view form my front porch. 
-
-I made this modlist for myself, to play the modded version of Skyrim I’ve always dreamed of  — and now its available for everyone else.  
-
-Enjoy : ) 
+**Silverhand **now has a new set of gear and is no longer hostile to the player for no reason. You can find out a bit of their story and might even become a honorary member. Silverhand will only become hostile if you join the Companions and become a werewolf.
