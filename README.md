@@ -30,48 +30,6 @@ and activating a road sign lets you fast travel to any town listed on it. (you c
 On starting a new game, the world begins at fall, summer, or winter. If you want to change the seasons you start at, open MCM Recorder → Default Settings, 
 "delete the 0023_$SS_ModName" file (1st file), then start the game and open the Select Your Season MCM menu — available briefly for new characters.
 
-**[CONTROLS]**
-
-True north starts with default vanilla controls, configure to your liking. below are mod added keys that are good to know.
-
-Default power attack key is hold left click. (change in BFCO mcm settings)
-
-Caps Lock (left directional pad button for controllers) – Open the "Wheeler" quick menu. 
-(change quick menu menu key by going to true north mod files and opening wheeler/wheeler.ini)
-
-SPACE Key - in addition to jumping, holding space allows your character to climb anything within reach (out of combat only) 
-
-↑ Arrow Key – Enable or disable the camera preset.
-
-↓ Arrow Key – Command all followers to stop or wait. (can change in nethors follower framework MCM in game) 
-
-Page Up – Interact with NPCs from a distance. (can change in Taunt / Remote Interactions MCM in game)
-
-3 Key – Taunt nearby NPCs to gain a combat buff (only works during combat).
-
-H key - call your horse / open horse inventory 🐎 (change in the Simplest horses mod's ini file)
-
-B key = warm your hands (I press when standing near a fire to warm up) 
-
-Home Key – Move any object your looking at freely.
- • Right Click – Confirm the new position.
- • Left Click – Cancel changes.
- (Perfect for precisely decorating your home.)
- 
-Delete Key – Open Modex, a cheat/debug menu that lets you:
- • Summon any NPC or item.
- • Teleport anywhere.
- (Useful for testing or troubleshooting.)
-
- F1 - Open up skse menu framework to tweak some mods including my own relight mod hail mod where you can edit lights and hail physics in real time. 
-
-Shift + E to do ALL the actions below:
-
- Pet Horses, dogs, cats, Applaud Bards, Milk Cows, Wave Hello to Children, read books without having to pick them up,
-Instantly use / equip / read items without having to pick them up into your inventory first, Sleep while sitting in a bench, chair ect.
-
- You can bath by using a power player by default. 
-
 **[The Vision]**
 
 Roleplaying is the heart of the experience. Alternate start lets you choose your own beggining and every notable questline has been altered to provide more roleplaying opportunitys. 
@@ -176,3 +134,45 @@ My favourite follower creater Craftian's followers can also be found in this lis
 **Vigilants** have been given ALOT of love with brand new equipment and a mod added allowing you to rebuild the hall of the vigilants afer its destroyed after level 10. (https://www.nexusmods.com/skyrimspecialedition/mods/49346)
 
 **Silverhand **now has a new set of gear and is no longer hostile to the player for no reason. You can find out a bit of their story and might even become a honorary member. Silverhand will only become hostile if you join the Companions and become a werewolf.
+
+**[CONTROLS]**
+
+True north starts with default vanilla controls, configure to your liking. below are mod added keys that are good to know.
+
+Default power attack key is hold left click. (change in BFCO mcm settings)
+
+Caps Lock (left directional pad button for controllers) – Open the "Wheeler" quick menu. 
+(change quick menu menu key by going to true north mod files and opening wheeler/wheeler.ini)
+
+SPACE Key - in addition to jumping, holding space allows your character to climb anything within reach (out of combat only) 
+
+↑ Arrow Key – Enable or disable the camera preset.
+
+↓ Arrow Key – Command all followers to stop or wait. (can change in nethors follower framework MCM in game) 
+
+Page Up – Interact with NPCs from a distance. (can change in Taunt / Remote Interactions MCM in game)
+
+3 Key – Taunt nearby NPCs to gain a combat buff (only works during combat).
+
+H key - call your horse / open horse inventory 🐎 (change in the Simplest horses mod's ini file)
+
+B key = warm your hands (I press when standing near a fire to warm up) 
+
+Home Key – Move any object your looking at freely.
+ • Right Click – Confirm the new position.
+ • Left Click – Cancel changes.
+ (Perfect for precisely decorating your home.)
+ 
+Delete Key – Open Modex, a cheat/debug menu that lets you:
+ • Summon any NPC or item.
+ • Teleport anywhere.
+ (Useful for testing or troubleshooting.)
+
+ F1 - Open up skse menu framework to tweak some mods including my own relight mod hail mod where you can edit lights and hail physics in real time. 
+
+Shift + E to do ALL the actions below:
+
+ Pet Horses, dogs, cats, Applaud Bards, Milk Cows, Wave Hello to Children, read books without having to pick them up,
+Instantly use / equip / read items without having to pick them up into your inventory first, Sleep while sitting in a bench, chair ect.
+
+ You can bath by using a power player by default. 
