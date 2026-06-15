@@ -113,13 +113,13 @@ Precision — brings true physics-based melee, realistic collisions, hit reactio
 
 **Dismemberment Framework** — cut arms and legs and body parts off.
 
-**Sanguine Symphony** — realist blood sprays, sound and kill fx.
+**Sanguine Symphony** — realistic blood sprays, sound and kill effects.
 
 **NPC Spell Variance** — npcs can use all spells they know.
 
 **[Quests]**
 
-Every notable questline has been overhauled to provide more choice and freedom but here are some new quests/content you might want to check out:
+Every notable questline has been improved to provide more choice and freedom. Below are some new quests/content you might want to check out:
 
 ☀️ **Midnight Sun**
 **Summary:** Venture into the Boreal Valley and overcome new adversaries in this multi-hour adventure! This new lands mod was hand crafted by Kitty Tail one of the most talented mod authors of all time. You can start this elden ring inspired by going to the morthal inn and reading the book on the counter. (I've also added true north exclusive dialogue to the inn keeper so you wont miss the book!) 
