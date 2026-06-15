@@ -27,8 +27,8 @@ After installation, open the modlist, launch Mod Organizer 2, select "True North
 Fast travel is disabled by default, instead Carriage Ferry Travel Overhaul and Road Signs Fast Travel are added so more carriage drivers appear, 
 and activating a road sign lets you fast travel to any town listed on it. (you can enable fast travel in the road sign fast travel MCM menu)
 
-On starting a new game, the world begins at a random point in the seasonal cycle (it might be winter, summer,  fall). To change this, open MCM Recorder → Default Settings, 
-"delete the 0023_$SS_ModName" file (1st file), then start the game and open the Select Your Season MCM menu — available briefly for new characters
+On starting a new game, the world begins at fall, summer, or winter. If you want to change the seasons you start at, open MCM Recorder → Default Settings, 
+"delete the 0023_$SS_ModName" file (1st file), then start the game and open the Select Your Season MCM menu — available briefly for new characters.
 
 **[CONTROLS]**
 
