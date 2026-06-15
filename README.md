@@ -67,7 +67,7 @@ Lightning Rod ⚡ — Npcs holding Metal weapons can get hit by lighting during 
 
 Vanilla Skyrim’s third-person combat suffers from “ice skating,” with attacks feeling weightless. True North replaces this with a grounded step & swing system using the latest and greatest combat framework BFCO. dodging and timed blocking has been added and First-person combat has also been fully overhauled with the same attention to detail. 
 
-Precision — brings true physics-based melee, realistic collisions, hit reactions, and weapon feedback.
+Precision — realistic weapon physics and collisions.
 
 **Dismemberment Framework** — cut arms and legs and body parts off.
 
