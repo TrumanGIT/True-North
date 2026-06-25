@@ -48,7 +48,7 @@ See the scars of the Civil War slowly heal over time. (and much more)
 
 **[Mods I Created ]**
 
-RE::Light 💡- True north comes with its own lighting mod created by me. RE::Light allows you to attach ligt to anything while playing. Lights can be edited in real time using the in-game menu And saved so your changes will stay. Press F1 to access the light editor.
+RE::Light 💡- True north comes with its own lighting mod created by me. RE::Light allows you to attach light to anything while playing. Lights can be edited in real time using the in-game menu And saved so your changes will stay. Press F1 to access the light editor.
 (https://www.nexusmods.com/skyrimspecialedition/mods/167186)
 
 Tilael 💧 - A Sea Elf Follower available after completing the Sirenroot Quest you can start by entering the alchemist shop in riften. She comes with a in game skse menu you can use to level her stats and unlocked new perks and spells for her. (https://www.nexusmods.com/skyrimspecialedition/mods/171582)
