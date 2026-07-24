@@ -7,9 +7,6 @@ On a laptop equipped with an RTX 4050, performance drops can occur in demanding 
 
 **[Installation instructions for new players]**
 
-NO STOCK GAME FOLDER!
-What does that mean?: 
-
 You need Skyrim Anniversary Edition v1.70 (Steam) with all Creation Club content installed. (Reports from users claim latest GOG versions work fine. Other retailers (Epic, etc.) are unsupported.
 
 Your game folder cannot have SKSE, Engine Fixes, or ENB '.dll' files added to it. (Clean Game Folder)
