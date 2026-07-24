@@ -19,7 +19,7 @@ Your game folder cannot have SKSE, Engine Fixes, or ENB '.dll' files added to it
 
 Initial installation REQUIRES 196 GB. after which you can delete everything in the True North Downloads folder to bring the file size down to 116 GB
 
-After installation, open the modlist, launch Mod Organizer 2, select "True North" and clic "run".
+After installation, open the modlist, launch Mod Organizer 2, select "True North" and click "run".
 
 **Recommended tweaks:**
 
