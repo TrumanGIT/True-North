@@ -105,7 +105,8 @@ Every notable questline has been improved to provide more choice and freedom. Be
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/136788
 
 **[NPCs]**
-NPCs now react to danger and the weather, fall in love, marry, move in together, and even invite you to their weddings if your friends. They also wont automatically greet you 
+
+NPCs now react to danger and the weather, fall in love, marry, move in together, and even invite you to their weddings if your friends. They also wont automatically greet you if your strangers.
 
 Npcs have been visually overhauled making them better without making them look like super models. 
 
