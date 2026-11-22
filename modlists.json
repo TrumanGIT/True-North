@@ -26,7 +26,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/TrumanGIT/True-North/main/TrueNorth5.png",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/160623",
-      "download": "https://authored-files.wabbajack.org/TrueNorthV7.1.2.wabbajack_c1843620-3e64-4122-9ec9-d1c84334b2e8",
+      "download": "https://authored-files.wabbajack.org/TrueNorthV7.1.2.wabbajack_78e27b77-83eb-4bba-88e1-13c4e98cea73",
       "machineURL": "TrueNorth",
       "discordURL": "https://discord.gg/pWHJJg9wWW",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/160623?tab=description",
@@ -38,17 +38,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "wkgX/mscJ8s=",
-      "Size": 1375009916,
+      "Hash": "51rM6sMY3tU=",
+      "Size": 1375010251,
       "NumberOfArchives": 1320,
       "SizeOfArchives": 91617995987,
       "NumberOfInstalledFiles": 240429,
-      "SizeOfInstalledFiles": 150510345165,
-      "TotalSize": 242128341152
+      "SizeOfInstalledFiles": 150510345209,
+      "TotalSize": 242128341196
     },
-    "version": "7.1.2",
+    "version": "7.1.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-11-22T04:52:43.7062549Z",
+    "dateUpdated": "2026-11-22T14:40:16.9033572Z",
     "repositoryName": ""
   }
 ]
